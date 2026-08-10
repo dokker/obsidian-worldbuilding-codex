@@ -1,1 +1,0 @@
-A legnagyobb a házak között 
