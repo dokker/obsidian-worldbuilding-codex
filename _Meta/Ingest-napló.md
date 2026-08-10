@@ -38,6 +38,8 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 | 2026-08-10 | L1412–L1419 | Istenek és vallások / Abrýss istenei | [[Napcsászár]], [[titoknokok]], [[Zora]], [[Dún vallás]], [[Negyedik Démonikus Birodalom]] | teológiai gerinc; [[Zorawa Miszticizmus]], [[Óidők]], [[Shinwa harmónia]] frissítve; új `Vallás-Mágia/Istenek/` mappa |
 | 2026-08-10 | L2216–L2234 | ARDÚNIA | [[Ardúnia]], [[Apologeta]], [[Catella]], [[XVIII. Marses]] | dún eredetű déli félsziget |
 | 2026-08-10 | L2236–L2245 | SHAGÎR | [[Shagîr]], [[Shagîri Harciskola]], [[Shrîl-Ashra Dinasztia]] (bővítve) | shinwa menedék, nádszál-címer, árnyékháború |
+| 2026-08-10 | L2144–L2152 | ABÝRNOSS + Tiltott Kanton | [[Abýrnoss]], [[Mequinas]], [[Tiltott Kanton]], [[Napudvar]], [[Napfal]] | művészet-ország; a császári félsziget |
+| 2026-08-10 | L2154–L2208 | SÝTIS | [[Sýtis]], [[Carvis Ház]] (bővítve: Carvis Dinasztia) | kereskedelem, monopóliumok, intrika |
 
 ## Következő feldolgozandó szakaszok (javaslat)
 
@@ -47,11 +49,10 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 - [x] ~~L1425–L1445 — A Shinwa harmónia (tanítás, történet)~~ ✓
 - [x] ~~L1412–L1419 — Istenek és vallások; Napcsászár, Zora, Dún vallás~~ ✓
 - [x] ~~L2216–L2245 — ARDÚNIA és SHAGÎR~~ ✓
+- [x] ~~L2144–L2208 — ABÝRNOSS, Tiltott Kanton, SÝTIS~~ ✓
 - [ ] L2267-től — Morte Silmoris Shagîrra (Mîor Shil) harciskola-tanítás → [[Shagîri Harciskola]] bővítés (lore)
-- [ ] L2185 körül — Sýtis (a tavak országa, intrika) → régió + Carvis/Meldoa szálak
-- [ ] Hátralévő országok: Abýrnoss, Arcantis, Quâboa, Xsît, Vutâs-Votar, Salagas Hercegség
+- [ ] Hátralévő országok: Arcantis, Quâboa, Xsît, Vutâs-Votar, Salagas Hercegség; nador „Hatalmasságok" (L2141)
 - [ ] L1445-től — Shinwa kilenc szent művészet + a shinwa panteon istennevei önálló jegyzetekben
-- [ ] Napudvar (helyszín) + Terra ni Mare (település) önálló jegyzete
 - [ ] „Világ Könyve" pending nevei (Glosszárium): Yorsenar, Meldoa, Terra ni Mare, Úti Királyság…
 - [ ] Harciskolák (könyv vége) — lore-utalásokért is átnézni
 - [ ] Példa karakterek (könyv vége) — lore-utalásokért is átnézni

@@ -19,8 +19,14 @@ A CODEX világ helyszínei. Fő világ: [[Nadýss]]. Fő szárazulat: [[Abrýss]
 - [[Goragar]] — a [[gorg]] nép jeges szigetfejedelemsége
 - [[Ardúnia]] — a dún eredetű, örök nyarú déli félsziget (Király + Pátriárka)
 - [[Shagîr]] — a [[Shrîl-Ashra Dinasztia]] szigete, a shinwa menedéke (Uralkodóherceg)
-- Abýrnoss, Arcantis, Quâboa, Sýtis, Xsît, Vutâs-Votar … *(csonk)*
+- [[Sýtis]] — a leggazdagabb ország, az intrika és a kereskedelem központja ([[Carvis Ház]])
+- [[Abýrnoss]] — „járhatatlan tölgyes", a művészet bölcsője (Nagykirály)
+- Arcantis, Quâboa, Xsît, Vutâs-Votar … *(csonk)*
 - Salagas Hercegség — független hercegség [[Naisur]] területén ([[Noras Nagy Ház]])
+
+## Császári birtok
+- [[Tiltott Kanton]] — a Napcsászár kertekkel díszes, tiltott félszigete
+- [[Napudvar]] — a [[Napcsászár]] palotája · [[Napfal]] — a Kantont védő fal (a mérőfal alapja)
 
 ## Nevezetes helyszínek
 - [[Sárkánygerinc Hegység]] — a földrész gerince
@@ -29,7 +35,8 @@ A CODEX világ helyszínei. Fő világ: [[Nadýss]]. Fő szárazulat: [[Abrýss]
 ## Települések
 - [[Apologeta]] — Ardúnia zászlósvárosa, a Pátriárka székhelye
 - [[Catella]] — az ardún királyok tóparti székvárosa
-- Shagîr városa, Sýtis, Mîthis, Naoenao, Menhîr, Tesun … *(csonk)*
+- [[Mequinas]] — Abýrnoss nagy kikötővárosa (sýtisi/Carvis befolyás)
+- Shagîr városa, Mîthis, Naoenao, Menhîr, Tesun, Nakhanis … *(csonk)*
 
 ## Természeti / kozmikus
 - [[Nadýss]] — a világ (glóbusz)

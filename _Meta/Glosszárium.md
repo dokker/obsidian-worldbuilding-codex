@@ -97,6 +97,17 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Shagîri Harciskola | frakcio | shinwa kolostorból nőtt kard-/harcművész-iskola (Morte Silmoris Shagîrra) |
 | meghajlított nádszál | jelkép | Shagîr/Shrîl-Ashra címere az I.250-es dúlás óta |
 | Vitorlák Tengere | helyszin | Ardúnia melletti tenger, az apologetai csatorna túlvége |
+| Sýtis | régió | a leggazdagabb ország, az intrika/kereskedelem központja; a Carvis uralja |
+| Carvis Dinasztia | frakcio | a Carvis Ház mint Sýtis uralkodóháza |
+| Abýrnoss | régió | „járhatatlan tölgyes", a művészet bölcsője; rang: Nagykirály |
+| Mequinas | település | Abýrnoss kikötővárosa (Yâratar család, Carvis-kötődés) |
+| Nakhanis | település | a Nagykirály fából épült, félreeső városa (Abýrnoss) |
+| Tiltott/Császári Kanton | régió | a Napcsászár tiltott félszigete; nem a 12 ország egyike |
+| Napudvar | helyszin | a Napcsászár palotája a Tiltott Kantonban |
+| Napfal | helyszin | a Kantont védő fal; a császári mérőfal (2000 lépés) alapja |
+| Álmok Csatornája | helyszin | a Napudvart Sýtisszel összekötő víziút |
+| sýtisi Nemesi Házak | frakcio | Menadis, Agatis, Niladus, Korohar, Carvis, Naquis, Iraquar |
+| gyilkos szépség | fogalom | a sýtisi művészet visszatérő motívuma |
 
 ### Feldolgozásra váró nevek (a „Világ Könyve" + régiók)
 
