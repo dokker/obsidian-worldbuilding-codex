@@ -44,7 +44,9 @@ hódított; korábban Miraclea harciasságát, majd Sýtis „romlott intellektu
 
 ## Uralkodó
 
-Rangja: **Nagykirály**.
+**Abirnis Narsis**, Abýrnoss Nagykirálya. A részletekhez ragaszkodó abýrnossi etikett a
+[[Birodalmi rangrendszer|császári rangokat]] tovább bontja (első/második/harmadik főrend,
+kisrend, nemesúr, kardnemes).
 
 ## Nyitott kérdések / OCR-bizonytalanságok
 

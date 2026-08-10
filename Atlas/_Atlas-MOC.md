@@ -21,8 +21,13 @@ A CODEX világ helyszínei. Fő világ: [[Nadýss]]. Fő szárazulat: [[Abrýss]
 - [[Shagîr]] — a [[Shrîl-Ashra Dinasztia]] szigete, a shinwa menedéke (Uralkodóherceg)
 - [[Sýtis]] — a leggazdagabb ország, az intrika és a kereskedelem központja ([[Carvis Ház]])
 - [[Abýrnoss]] — „járhatatlan tölgyes", a művészet bölcsője (Nagykirály)
-- Arcantis, Quâboa, Xsît, Vutâs-Votar … *(csonk)*
+- [[Arcantis]] — titokzatos, mágiával teli erdőország (Nagyherceg)
+- [[Quâboa]] — a Birodalom gabona-éléstára (Király)
+- [[Xsît]] — a nagy fjordok hazája északnyugaton (Nagyfejedelem)
+- [[Vutâs-Votar]] — a két mitikus tó lápvidéke (Király)
 - Salagas Hercegség — független hercegség [[Naisur]] területén ([[Noras Nagy Ház]])
+
+✅ A tizenkét ország mind megvan.
 
 ## Császári birtok
 - [[Tiltott Kanton]] — a Napcsászár kertekkel díszes, tiltott félszigete

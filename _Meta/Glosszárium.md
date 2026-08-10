@@ -108,6 +108,16 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Álmok Csatornája | helyszin | a Napudvart Sýtisszel összekötő víziút |
 | sýtisi Nemesi Házak | frakcio | Menadis, Agatis, Niladus, Korohar, Carvis, Naquis, Iraquar |
 | gyilkos szépség | fogalom | a sýtisi művészet visszatérő motívuma |
+| Quâboa | régió | a Birodalom gabona-éléstára (Aquas várossal); rang: Király |
+| Aquas | település | Quâboa kikötő-/fogadóvárosa |
+| Vutâs-Votar | régió | a két mitikus tó lápvidéke; rang: Király |
+| Vutâs és Votar | fogalom | a két mitikus ikertestvér-hős, a tavak névadói |
+| Arcantis | régió | mágiával teli erdőország, ahol alsó és felső világ összeér; rang: Nagyherceg |
+| Xsît | régió | a nagy fjordok hazája északnyugaton; rang: Nagyfejedelem |
+| Abirnis Narsis | szereplő | Abýrnoss Nagykirálya |
+| Délnyugati / Délkeleti / Északi / Északnyugati Varázslóiskola | frakcio | elszigetelt mágusiskolák a Sárkánygerinc mentén |
+| Délkeleti Rendház | frakcio | démonimádó túlélő szekta rejtekhelye Arcantisban (Császári Iskola) |
+| Nuatir, Mortâlis | helyszin | térképi földek a 12 országon túl (#13, #14) — még feltáratlan |
 
 ### Feldolgozásra váró nevek (a „Világ Könyve" + régiók)
 

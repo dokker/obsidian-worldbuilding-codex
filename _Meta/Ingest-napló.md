@@ -40,6 +40,9 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 | 2026-08-10 | L2236–L2245 | SHAGÎR | [[Shagîr]], [[Shagîri Harciskola]], [[Shrîl-Ashra Dinasztia]] (bővítve) | shinwa menedék, nádszál-címer, árnyékháború |
 | 2026-08-10 | L2144–L2152 | ABÝRNOSS + Tiltott Kanton | [[Abýrnoss]], [[Mequinas]], [[Tiltott Kanton]], [[Napudvar]], [[Napfal]] | művészet-ország; a császári félsziget |
 | 2026-08-10 | L2154–L2208 | SÝTIS | [[Sýtis]], [[Carvis Ház]] (bővítve: Carvis Dinasztia) | kereskedelem, monopóliumok, intrika |
+| 2026-08-10 | L1996–L1999, L2017, L1931 | A maradék 4 ország (geográfiából) | [[Quâboa]], [[Vutâs-Votar]], [[Arcantis]], [[Xsît]] | nincs saját fejezetük; ✅ mind a 12 ország megvan |
+
+> **Mérföldkő:** a Birodalom mind a **tizenkét országa** jegyzetet kapott.
 
 ## Következő feldolgozandó szakaszok (javaslat)
 
@@ -50,8 +53,10 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 - [x] ~~L1412–L1419 — Istenek és vallások; Napcsászár, Zora, Dún vallás~~ ✓
 - [x] ~~L2216–L2245 — ARDÚNIA és SHAGÎR~~ ✓
 - [x] ~~L2144–L2208 — ABÝRNOSS, Tiltott Kanton, SÝTIS~~ ✓
-- [ ] L2267-től — Morte Silmoris Shagîrra (Mîor Shil) harciskola-tanítás → [[Shagîri Harciskola]] bővítés (lore)
-- [ ] Hátralévő országok: Arcantis, Quâboa, Xsît, Vutâs-Votar, Salagas Hercegség; nador „Hatalmasságok" (L2141)
+- [x] ~~A maradék 4 ország (Arcantis, Quâboa, Xsît, Vutâs-Votar)~~ ✓
+- [ ] L2267-től — Morte Silmoris (Shagîrra/Ventorra/Vîtor) harciskola-ágazatok → lore (khîrin, servin, Sýtis merénylők)
+- [ ] Salagas Hercegség önálló régió-jegyzete; nador „Hatalmasságok" (L2141: Kirscu, Ver, Kounrek)
+- [ ] Térképi feltáratlan földek: Nuatir, Mortâlis, Shurkan-szigetek, Kristály-sivatag
 - [ ] L1445-től — Shinwa kilenc szent művészet + a shinwa panteon istennevei önálló jegyzetekben
 - [ ] „Világ Könyve" pending nevei (Glosszárium): Yorsenar, Meldoa, Terra ni Mare, Úti Királyság…
 - [ ] Harciskolák (könyv vége) — lore-utalásokért is átnézni
