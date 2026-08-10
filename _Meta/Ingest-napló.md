@@ -36,6 +36,8 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 | 2026-08-10 | L2009 | Abrýssi szokások | [[Abrýssi szokások]] (kultúra) | |
 | 2026-08-10 | L2052, L2079, L2100 | Uralkodók | [[Sánta Othar]], [[Miraclis Narquor Artis]], [[Morgar Daron-Doar]] | szereplő-jegyzetek |
 | 2026-08-10 | L1412–L1419 | Istenek és vallások / Abrýss istenei | [[Napcsászár]], [[titoknokok]], [[Zora]], [[Dún vallás]], [[Negyedik Démonikus Birodalom]] | teológiai gerinc; [[Zorawa Miszticizmus]], [[Óidők]], [[Shinwa harmónia]] frissítve; új `Vallás-Mágia/Istenek/` mappa |
+| 2026-08-10 | L2216–L2234 | ARDÚNIA | [[Ardúnia]], [[Apologeta]], [[Catella]], [[XVIII. Marses]] | dún eredetű déli félsziget |
+| 2026-08-10 | L2236–L2245 | SHAGÎR | [[Shagîr]], [[Shagîri Harciskola]], [[Shrîl-Ashra Dinasztia]] (bővítve) | shinwa menedék, nádszál-címer, árnyékháború |
 
 ## Következő feldolgozandó szakaszok (javaslat)
 
@@ -44,9 +46,11 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 - [x] ~~L2007–L2010 — Abrýssi szokások~~ ✓
 - [x] ~~L1425–L1445 — A Shinwa harmónia (tanítás, történet)~~ ✓
 - [x] ~~L1412–L1419 — Istenek és vallások; Napcsászár, Zora, Dún vallás~~ ✓
-- [ ] L2135-től — további „Hatalmasságok" / országok (Abýrnoss, Arcantis, Sýtis, Shagîr, Ardúnia, Quâboa, Xsît, Vutâs-Votar)
+- [x] ~~L2216–L2245 — ARDÚNIA és SHAGÎR~~ ✓
+- [ ] L2267-től — Morte Silmoris Shagîrra (Mîor Shil) harciskola-tanítás → [[Shagîri Harciskola]] bővítés (lore)
+- [ ] L2185 körül — Sýtis (a tavak országa, intrika) → régió + Carvis/Meldoa szálak
+- [ ] Hátralévő országok: Abýrnoss, Arcantis, Quâboa, Xsît, Vutâs-Votar, Salagas Hercegség
 - [ ] L1445-től — Shinwa kilenc szent művészet + a shinwa panteon istennevei önálló jegyzetekben
-- [ ] Régiók: Shagîr (L2236), Ardúnia (L2216), Quâboa, Sýtis, Xsît, Abýrnoss, Salagas Hercegség
 - [ ] Napudvar (helyszín) + Terra ni Mare (település) önálló jegyzete
 - [ ] „Világ Könyve" pending nevei (Glosszárium): Yorsenar, Meldoa, Terra ni Mare, Úti Királyság…
 - [ ] Harciskolák (könyv vége) — lore-utalásokért is átnézni

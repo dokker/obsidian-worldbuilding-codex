@@ -87,6 +87,16 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Negyedik Démonikus Birodalom | frakcio | az Óidők kultuszainak rejtett, jelenkori hálózata |
 | Napcsászár meditációs gömbje | tárgy | 13 gömbhéj, középen 3333-lapú vörös gyémánt (legyőzött isten esszenciája) |
 | Terra ni Mare | település | a dún vallás bölcsője, a Dún Birodalom szíve (Napnyugat) |
+| Ardúnia | régió | dún eredetű déli félsziget; rang: Király (+ Pátriárka) |
+| ardún | nep | dún leszármazott nép Ardúniában (magas, kék szem, szőke/barna haj) |
+| Apologeta | település | Ardúnia zászlósvárosa, a Pátriárka székhelye |
+| Catella | település | az ardún királyok tóparti székvárosa |
+| XVIII. Marses | szereplő | Ardúnia jelenlegi királya |
+| Ardún Pátriárka / Ecclesia (ni marei) | frakcio | az ardún dún egyház és napnyugati anyaegyháza |
+| Shagîr | régió/sziget | a Shrîl-Ashra szigete, a shinwa menedéke; rang: Uralkodóherceg |
+| Shagîri Harciskola | frakcio | shinwa kolostorból nőtt kard-/harcművész-iskola (Morte Silmoris Shagîrra) |
+| meghajlított nádszál | jelkép | Shagîr/Shrîl-Ashra címere az I.250-es dúlás óta |
+| Vitorlák Tengere | helyszin | Ardúnia melletti tenger, az apologetai csatorna túlvége |
 
 ### Feldolgozásra váró nevek (a „Világ Könyve" + régiók)
 

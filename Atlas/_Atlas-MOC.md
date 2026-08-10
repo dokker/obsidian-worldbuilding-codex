@@ -17,13 +17,19 @@ A CODEX világ helyszínei. Fő világ: [[Nadýss]]. Fő szárazulat: [[Abrýss]
 - [[Naisur]] — a [[ghodi]] és [[kharag]] fagyos földje (Kagan)
 - [[Miraclea]] — a menhirek mágiakioltó fennsíkja, harcos kultúra (Nagyfejedelem)
 - [[Goragar]] — a [[gorg]] nép jeges szigetfejedelemsége
-- Abýrnoss, Arcantis, Ardúnia, Quâboa, Shagîr, Sýtis, Xsît, Vutâs-Votar … *(csonk)*
+- [[Ardúnia]] — a dún eredetű, örök nyarú déli félsziget (Király + Pátriárka)
+- [[Shagîr]] — a [[Shrîl-Ashra Dinasztia]] szigete, a shinwa menedéke (Uralkodóherceg)
+- Abýrnoss, Arcantis, Quâboa, Sýtis, Xsît, Vutâs-Votar … *(csonk)*
 - Salagas Hercegség — független hercegség [[Naisur]] területén ([[Noras Nagy Ház]])
 
 ## Nevezetes helyszínek
 - [[Sárkánygerinc Hegység]] — a földrész gerince
 - [[Abrýss Kelyhe]] — belső édesvízű tenger
-- Sýtis, Mîthis, Naoenao, Apologeta, Catella …
+
+## Települések
+- [[Apologeta]] — Ardúnia zászlósvárosa, a Pátriárka székhelye
+- [[Catella]] — az ardún királyok tóparti székvárosa
+- Shagîr városa, Sýtis, Mîthis, Naoenao, Menhîr, Tesun … *(csonk)*
 
 ## Természeti / kozmikus
 - [[Nadýss]] — a világ (glóbusz)

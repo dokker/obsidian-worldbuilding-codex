@@ -22,7 +22,7 @@ tags: [codex, moc, frakcio]
 - [[Shrîl-Ashra Dinasztia]] — az írott történelem hajnalának abrýssi uralkodóháza
 
 ## Harciskolák
-- Shagîri Harciskola (Morte Silmoris Shagîrra) …
+- [[Shagîri Harciskola]] (Morte Silmoris Shagîrra) — a Shrîl-Ashra kolostor-iskolája
 - Fekete Rózsa, Kardnemes, Mestergyilkos rendek …
 
 > [!note] Kézi lista; `.base` nézet a `type: frakcio` alapján is készíthető.
