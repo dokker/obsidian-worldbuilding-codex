@@ -41,6 +41,20 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Sýtis | település | a tavak országának városa |
 | Mîthis | település | Zorawa rejtett kolostorvárosa |
 | Nemesi Házak (Nagy Házak) | frakcio | az „árnyékháborút" vívó nemesi dinasztiák |
+| Nadîr, az Ős-Szellem | vallas/lény | bolygószellem; a nador kultusz; OCR: „Ós-Szellem" |
+| Nadîr Királyság | régió | a nador nép hegyi királysága Abrýss nyugatán |
+| Sápadt Vándor | fogalom/égitest | Nadýss megmaradt holdja, 12 naponta; „dagály" a mágiában |
+| Ashvîl | fogalom/égitest | a lezuhant hold, a Közép-Birodalom pusztítója |
+| Dún Birodalom (Dún vallás) | frakcio/vallas | elsöpörte a Napnyugati Démonikus Császárságot; Terra ni Mare központtal |
+| kevert lények | leny | az Óidők mágusai által alkotott torz fenevadak |
+| elveszett városok | helyszin | az Óidők építményei; „senki sem akarja megtalálni" |
+
+### Feldolgozásra váró nevek (a „Világ Könyve", L1869-ből)
+
+Salagas Hercegség, Yorsenar, Meldoa, Terra ni Mare, Úti Királyság, meldánok, Napudvar,
+Shrîl-Ashra seregek, Carvis Ház (Sýtis), Tiltott Tartomány / Császári Kanton
+meditációs kertjei, Tízezer Lépés Kertje, Álmok Csatornája, Miraclea obeliszkje
+(mágiakioltó fennsík). — Ezekhez még nincs jegyzet; ingestkor dolgozandók fel.
 
 ## OCR-normalizálási szabályok
 

@@ -25,14 +25,18 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 | 2026-08-10 | L1882–L1892 | Világmindenség / Nadýss | [[Nadýss]] | minta |
 | 2026-08-10 | L1894–L1902 | Történelem – Óidők | [[Óidők]] | minta |
 | 2026-08-10 | L1990–L2013 | Geográfia / Abrýss | [[Abrýss]] | minta |
+| 2026-08-10 | L1813–L1817, L1819–L1825 | Nadîr, az Ős-Szellem | [[Nadîr, az Ős-Szellem]], [[nador]], [[Nadîr Királyság]] | teljes tanítás; invokációk mechanikája kihagyva |
+| 2026-08-10 | L1869–L1870 | Világ Könyve (bölcs szavai) | [[Óidők]] (frissítve), [[Nadýss]] (frissítve), [[gorg]], [[Sápadt Vándor]] | sok név regisztrálva a Glosszáriumba (pending) |
 
 ## Következő feldolgozandó szakaszok (javaslat)
 
-- [ ] L1813–L1873 — Nadîr, az Ős-Szellem (vallás/misztika)
+- [x] ~~L1813–L1873 — Nadîr, az Ős-Szellem~~ ✓
 - [ ] L2007–L2010 — Abrýssi szokások → [[Abrýssi szokások]] (kultúra)
-- [ ] L2011–L2100+ — Abrýssi hatalmasságok, rangok → Frakciók / Népek
+- [ ] L2011–L2135 — Abrýssi hatalmasságok, rangok, NAISUR/GORAGAR/NADÎR KIRÁLYSÁG → Frakciók / Népek / Régiók
 - [ ] L1416 körül — Abrýss istenei → Vallások
-- [ ] Népek részletei: ghodi, kharag, nador, gorg → Népek-Kultúrák/Népek
+- [ ] L1443–L1509 — Shinwa vallásgyakorlat, misztikus képességek → [[Shinwa harmónia]]
+- [ ] Népek részletei: ghodi, kharag (külön jegyzet) → Népek-Kultúrák/Népek
 - [ ] Régiók külön jegyzetei: Shagîr, Ardúnia, Goragar, Quâboa, Sýtis, Miraclea, Xsît…
+- [ ] „Világ Könyve" pending nevei (Glosszárium): Salagas, Yorsenar, Meldoa, Terra ni Mare, Dún Birodalom, Úti Királyság…
 - [ ] Harciskolák (könyv vége) — lore-utalásokért is átnézni
 - [ ] Példa karakterek (könyv vége) — lore-utalásokért is átnézni

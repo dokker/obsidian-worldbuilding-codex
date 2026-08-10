@@ -13,7 +13,8 @@ A CODEX világ helyszínei. Fő világ: [[Nadýss]]. Fő szárazulat: [[Abrýss]
 
 ## Régiók (Abrýss)
 > A Birodalom tizenkét országa. Kitöltendő az ingestion során.
-- Shagîr, Ardúnia, Goragar, Quâboa, Miraclea, Xsît, Naisur, Nadîr Királyság …
+- [[Nadîr Királyság]] — a [[nador]] nép hegyi királysága nyugaton
+- Shagîr, Ardúnia, Goragar, Quâboa, Miraclea, Xsît, Naisur, Salagas Hercegség … *(csonk)*
 
 ## Nevezetes helyszínek
 - [[Sárkánygerinc Hegység]] — a földrész gerince

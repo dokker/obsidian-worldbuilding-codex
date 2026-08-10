@@ -4,9 +4,9 @@ aliases: [Óidők, Az Óidők]
 tags: [codex, tortenelem/oidok]
 status: vazlat
 kanon: bizonytalan
-forras: ["full_codex.md#L1894-L1902"]
+forras: ["full_codex.md#L1894-L1902", "full_codex.md#L1869-L1870"]
 ocr_bizonytalan: true
-kapcsolodo: ["[[Nadýss]]", "[[Abrýss]]"]
+kapcsolodo: ["[[Nadýss]]", "[[Abrýss]]", "[[Sápadt Vándor]]", "[[Dún Birodalom]]"]
 kezdet: "az emberi történelem előtt"
 veg: "a démonikus birodalmak pusztulása"
 ---
@@ -37,6 +37,20 @@ birodalmat emeltek Nadýsson:
    Császárság. A Délinek nyoma veszett, a Napkeleti széthullott, a Napnyugatit a **Dún
    vallás** számolta fel.
 
+## A Nîtor és a hagyaték
+
+Az Óidők mágusai a **[[Nadýss]]** közepén nyíló **Nîtor** rejtélyes kapun át érkeztek
+a világba; a hagyomány szerint a Napcsászár és titoknokai ma is ismerik a használatát.
+Örökségük sötét: ők alkották a **kevert lényeket** (torz fenevadakat) és építették az
+**elveszett városokat**, amelyeket ezért senki sem akar megtalálni. Saját teremtményeik
+fordultak ellenük, s a démonok elleni végső háborúban világok sokasága kihalt —
+helyenként a bolygószellem sem élte túl (halott világok).
+
+Az Óbirodalom (a bölcsek „Démonikus Ó-Birodalomnak" nevezik) száznál is több világon
+uralkodott, de szíve mindig [[Nadýss]] maradt. Az Új-Birodalom négy császársága közül
+egyedül a **Napkeleti** érte el a hajdani központot, [[Abrýss]]-t — az abrýssi emberek
+az ő utódaik. A [[Sápadt Vándor]] (a megmaradt hold) e kataklizmák tanúja.
+
 ## Öröksége
 
 A mai népek az Óidők mágusainak utódai, „ősi átkokat" hordozva. Ez a kor a
@@ -51,3 +65,5 @@ elleni" harcának háttere.
 
 ## Források
 - `full_codex.md#L1894-L1902` (Történelem — Az Óidők)
+- `full_codex.md#L1869-L1870` (Világ Könyve: Nîtor mint kapu, kevert lények, elveszett
+  városok, halott világok, a Napkeleti Császárság elődsége)

@@ -8,8 +8,8 @@ tags: [codex, moc, nep]
 ## Népek
 - ghodi — alacsony, éles eszű lovasnép
 - kharag — hatalmas termetű hegyibarbárok
-- nador — hallgatag hegyinép, „Nagy Öreg" vezetővel
-- gorg — Goragar szigetének népe
+- [[nador]] — hallgatag hegyi vadásznép, „Nagy Öreg" vezetővel; [[Nadîr, az Ős-Szellem]] hívei
+- [[gorg]] — szarupikkelyes, harcias nép [[Goragar]] szigetén
 - Naisur, Goragar népe („Hatalmasságok") …
 
 ## Kultúrák és szokások

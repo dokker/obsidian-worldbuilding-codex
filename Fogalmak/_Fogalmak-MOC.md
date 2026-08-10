@@ -10,5 +10,7 @@ Lore-terminusok és fogalmak. Kitöltendő az ingestion során.
 - Lét és nemlét körforgása (Zorawa kozmológia)
 - Aura, Khîrin, Szellemnyelv
 - Árnyékháború — a Nemesi Házak rejtett küzdelme
+- [[Sápadt Vándor]] — Nadýss megmaradt holdja; „dagály" a mágiában
+- Nîtor — a világok közti kapu (lásd [[Nadýss]], [[Óidők]])
 
 > [!note] Kézi lista; `.base` nézet a `type: fogalom` alapján is készíthető.

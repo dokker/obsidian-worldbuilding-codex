@@ -4,9 +4,9 @@ aliases: [Nadjss]
 tags: [codex, atlas/kozmikus, vilag]
 status: vazlat
 kanon: biztos
-forras: ["full_codex.md#L1882-L1892"]
+forras: ["full_codex.md#L1882-L1892", "full_codex.md#L1869-L1870"]
 ocr_bizonytalan: false
-kapcsolodo: ["[[Abrýss]]", "[[Óidők]]", "[[Zorawa Miszticizmus]]"]
+kapcsolodo: ["[[Abrýss]]", "[[Óidők]]", "[[Zorawa Miszticizmus]]", "[[Sápadt Vándor]]"]
 kontinens:
 regio:
 szulo_hely:
@@ -27,10 +27,14 @@ középpontjában fekszik, ezért borítja egét a csillagok sűrű fátyla.
 
 - A Napcsászár titoknokai száznál is több, Nadýsshoz hasonló világot ismernek.
 - Vezet út a világok között; az örvény középpontján, **Nîtor**-on keresztül más
-  örvényekbe is eljuthat az utazó.
+  örvényekbe is eljuthat az utazó. A Nîtor egyben **rejtélyes kapu**: rajta át érkeztek
+  Nadýssra az [[Óidők]] mágusai, s a hagyomány szerint a Napcsászár és titoknokai ma is
+  ismerik a használatát.
 - Vízborította glóbusz: szárazulatai közül az egyik [[Abrýss]], a másik a Napnyugat
   földje; a többit óceán és köd rejti. A partmenti szigetek „ősi és idegen létezést"
   rejtenek — a hagyomány óv a múlt fürkészésétől.
+- Egét egykor több hold ragyogta be; ma egyetlen maradt, a [[Sápadt Vándor]] (12 naponta
+  tűnik fel).
 
 ## Nyitott kérdések / OCR-bizonytalanságok
 
