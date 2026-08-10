@@ -11,14 +11,10 @@
             "id": "82f2eac28c56d3f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Tradyss Ház.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tradyss Ház"
+              "title": "New tab"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Tradyss Ház.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Tradyss Ház.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
