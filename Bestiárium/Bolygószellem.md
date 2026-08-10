@@ -31,6 +31,12 @@ megőrzik ezt a szentséget — innen erős kapcsolatuk a természettel.
 - [[Nadýss]] bolygószelleme fellázadt a Közép-Birodalom mágusai ellen és legyőzte őket;
   a [[Napcsászár]] a [[A végtelen csaták kora|végtelen csaták korában]] kiegyezett vele.
 
+## Nadîr = Nadýss bolygószelleme
+
+A Szószedet kimondja: **„Nadîr: a nador nép így nevezi Nadýss bolygószellemét."** Vagyis a
+[[Nadîr, az Ős-Szellem|Nadîr-kultusz]] tárgya azonos [[Nadýss]] bolygószellemével — a
+[[nador]] természeti nép épp azért őrzi a szentséget, mert őshonos a világban.
+
 ## Nyitott kérdések / OCR-bizonytalanságok
 
 - [[Nadîr, az Ős-Szellem|Nadîr]] = [[Nadýss]] bolygószelleme (a zorawa azonosítás szerint) —

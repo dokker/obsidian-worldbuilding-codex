@@ -156,13 +156,25 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Auraérintés | magia | két Aura összeérése (érintés, tekintet, kiterjesztés) — a varázslás alapja |
 | varázstudó / defensis / belső testőr | fogalom | erős Aurájú rangok (defensis: Aura 40+) |
 | két nagy iskola / varázslóiskolák | frakcio | a mágia két fő rendszere; geográfiai iskolák (Északi, Északnyugati, Délnyugati, Délkeleti) |
+| Kanton | fogalom | tartomány, amely nem tartozik a 12 ország egyikéhez sem |
+| Salagas Hercegség | régió/kanton | független hercegség Naisurban; a Noras Ház székhelye; vitatott hercegi sziget |
+| Feltáratlan földek | index | csak névről ismert helyek gyűjtője |
+| Nuatir / Mortâlis | helyszin | térképi földek a 12 országon túl (#13, #14) |
+| Shurkan-szigetek / Vihar-szigetek | helyszin | óceáni szigetcsoportok a térképen |
+| Keleti Kapu tengere / Kristály-sivatag / Ardúnia temetője | helyszin | leíratlan térképi helyek |
+| Yorsenar / Meldoa / Úti Királyság | helyszin | napnyugati földek (Világ Könyve); Meldoa népe a meldánok |
+| Elemi Síkok | fogalom | az Anyagi Sík 7 alsíkja: Föld, Víz, Levegő, Tűz, Éter, Idő, Prima Materia |
+| Bandola | leny | mágikus betegségszellem, az éteri sík lakója |
+| Belső Erő | magia | tudatos mágikus akarat (a mágiahasználat egyik útja) |
+| Diszciplínák | magia | testen belüli kismágiák; az Aurát használják, csak az alkalmazóra hatnak |
 
-### Feldolgozásra váró nevek (a „Világ Könyve" + régiók)
+> **Nadîr** = Nadýss bolygószelleme (a Szószedet kimondja) — lásd [[Bolygószellem]].
 
-Yorsenar, Meldoa, Terra ni Mare, Úti Királyság, meldánok, Napudvar, Shrîl-Ashra seregek,
-Tiltott Tartomány / Császári Kanton meditációs kertjei, Tízezer Lépés Kertje, Álmok
-Csatornája, Salagas Hercegség (régió-jegyzet), Abýrnoss, Arcantis, Sýtis, Xsît,
-Vutâs-Votar, Quâboa, Shagîr, Ardúnia (régió-jegyzetek). — Ingestkor dolgozandók fel.
+### Feldolgozásra váró / feltáratlan
+
+- Napnyugat részletei: Terra ni Mare belső élete, Yorsenar, Meldoa, Úti Királyság
+- Térképi helyek leírása, ha előkerül: Nuatir, Mortâlis, Shurkan-/Vihar-szigetek, Kristály-sivatag
+- Elemi Síkok, Bandola és a diszciplínák önálló jegyzetei (mechanikamentes lore)
 
 ## OCR-normalizálási szabályok
 

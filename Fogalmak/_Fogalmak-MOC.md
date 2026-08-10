@@ -21,7 +21,8 @@ Lore-terminusok és fogalmak. Kitöltendő az ingestion során.
 - [[khîrin]], Aura *(mágia)*
 
 ## Társadalom
-- Árnyékháború — a [[Nemesi Házak]] rejtett küzdelme
+- [[Árnyékháború]] — a [[Nemesi Házak]] rejtett küzdelme
 - [[Birodalmi rangrendszer]], [[Abrýssi szokások]]
+- [[Kanton]] — a 12 országhoz nem tartozó tartomány (pl. [[Salagas Hercegség]])
 
 > [!note] Kézi lista; `.base` nézet a `type: fogalom` alapján is készíthető.

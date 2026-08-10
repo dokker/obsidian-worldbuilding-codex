@@ -23,7 +23,7 @@ a Birodalom talán legerősebb Nagy Házával, a **[[Carvis Ház]]zal**.
 
 ## Felépítés
 
-- **Feje**: Salagas hercege — a [[Naisur]] területén álló független hercegségé.
+- **Feje**: **Salagas hercege** — a [[Salagas Hercegség|Naisur területén álló független hercegségé]].
 - **Öt főrendi család** az oszlopai: az Anquis ([[Miraclea]]), a Nagorr és a Quatis
   (Sýtis), a Kadis (Abýrnoss) és a Shîalis Khîl ([[Shagîr]]).
 - Mellettük közel **ötven kisrend** a Birodalom minden tájáról.

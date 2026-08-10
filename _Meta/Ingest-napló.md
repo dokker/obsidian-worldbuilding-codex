@@ -47,6 +47,7 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 | 2026-08-10 | L1761–L1803 | Metafizika: a Hét Sík és a lények | [[Hét Sík]], [[Teremtő]], [[Bolygószellem]], [[morâd]], [[Démon]], [[Szellemlény]], [[Szellemnyelv]], [[Halott világok]] | a kozmológiai gerinc; a morâd-kettősség feloldva; Bestiárium feltöltve |
 | 2026-08-10 | L834–L863 | Mágia alapfogalmai | [[Aura]], [[Mana]], [[Harmadik Szem]] | mágikus akarat, Auraérintés, kiterjesztés; mechanika kihagyva |
 | 2026-08-10 | — (konzisztencia-kör) | Törött linkek javítása, hiánypótlás | [[Dún Birodalom]], [[Abrýss Kelyhe]], [[Menhîr]], [[Mîthis]], [[Árnyékháború]], [[Jégsír]], [[Ardún vallásháború]] | 8 sortöréses + 1 escape-elt link javítva; „Naisuri Kagan" alias; 0 törött link, 0 valódi árva |
+| 2026-08-10 | L2028, L1869, L1999, L2934 | Salagas + feltáratlan földek | [[Salagas Hercegség]], [[Kanton]], [[Feltáratlan földek]] | Szószedet: Nadîr=bolygószellem megerősítve; Kanton-fogalom; térképi/napnyugati nevek indexelve |
 
 > **Mérföldkő:** a Birodalom mind a **tizenkét országa** jegyzetet kapott, és a
 > **teljes datált történelem** (i.e. ~8000 – I. 250) idővonalba rendeződött.

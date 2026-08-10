@@ -25,13 +25,17 @@ A CODEX világ helyszínei. Fő világ: [[Nadýss]]. Fő szárazulat: [[Abrýss]
 - [[Quâboa]] — a Birodalom gabona-éléstára (Király)
 - [[Xsît]] — a nagy fjordok hazája északnyugaton (Nagyfejedelem)
 - [[Vutâs-Votar]] — a két mitikus tó lápvidéke (Király)
-- Salagas Hercegség — független hercegség [[Naisur]] területén ([[Noras Nagy Ház]])
 
 ✅ A tizenkét ország mind megvan.
 
-## Császári birtok
+## Kantonok (a 12 országon kívül)
+- [[Kanton]] — a fogalom: egyetlen országhoz sem tartozó tartomány
 - [[Tiltott Kanton]] — a Napcsászár kertekkel díszes, tiltott félszigete
-- [[Napudvar]] — a [[Napcsászár]] palotája · [[Napfal]] — a Kantont védő fal (a mérőfal alapja)
+  - [[Napudvar]] — a [[Napcsászár]] palotája · [[Napfal]] — a Kantont védő fal (a mérőfal alapja)
+- [[Salagas Hercegség]] — független hercegség [[Naisur]] területén ([[Noras Nagy Ház]] székhelye)
+
+## Feltáratlan / Napnyugat
+- [[Feltáratlan földek]] — csak névről ismert helyek (Nuatir, Mortâlis, Shurkan-/Vihar-szigetek, Kristály-sivatag, Terra ni Mare, Yorsenar, Meldoa …)
 
 ## Nevezetes helyszínek
 - [[Sárkánygerinc Hegység]] — a földrész gerince
