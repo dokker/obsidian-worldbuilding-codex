@@ -1,6 +1,6 @@
 ---
 type: vallas
-aliases: [Shinwa, A Shinwa harmónia, shinwa]
+aliases: [Shinwa, A Shinwa harmónia, shinwa, A Tízezer Isten Vallása]
 tags: [codex, vallas/shinwa]
 status: vazlat
 kanon: biztos

@@ -55,7 +55,8 @@ az ő utódaik. A [[Sápadt Vándor]] (a megmaradt hold) e kataklizmák tanúja.
 
 A mai népek az Óidők mágusainak utódai, „ősi átkokat" hordozva. Ez a kor a
 [[Zorawa Miszticizmus|Zorawa]] démon-tilalmának és a Birodalom „ősi erők újjáéledése
-elleni" harcának háttere.
+elleni" harcának háttere. A kor sötét misztérium-kultuszai máig fennmaradtak — a bölcsek
+ezt nevezik a rejtett **[[Negyedik Démonikus Birodalom|Negyedik Démonikus Birodalomnak]]**.
 
 ## Nyitott kérdések / OCR-bizonytalanságok
 

@@ -78,6 +78,15 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Sánta Othar / Miraclis Narquor Artis / Morgar Daron-Doar | szereplő | Naisur / Miraclea / Goragar uralkodói |
 | abrîn | nyelv | az általános abrýssi köznyelv, amit a kolostorokban tanulnak |
 | ezüstveder | mágia/tárgy | csatornázást pótló hétköznapi zorawa mágia |
+| Napcsászár | szereplő | Abrýss isteni ura; Zora megtestesülése; Első/IX. Napcsászár |
+| titoknokok | frakcio | a Napcsászár belső köre, Zorawa nagymesterek |
+| Zora / Fényhozó Angyal | isten | shinwa+dún főisten; a Napcsászárban testesült meg |
+| Dún vallás | vallas | Napnyugat vallása (Terra ni Mare); a zorawa egyik gyökere |
+| Teremtő (a Rend) | fogalom | a zorawában az istenek feletti, személytelen ős-ok |
+| A Tízezer Isten Vallása | alias | a Shinwa napnyugati neve |
+| Negyedik Démonikus Birodalom | frakcio | az Óidők kultuszainak rejtett, jelenkori hálózata |
+| Napcsászár meditációs gömbje | tárgy | 13 gömbhéj, középen 3333-lapú vörös gyémánt (legyőzött isten esszenciája) |
+| Terra ni Mare | település | a dún vallás bölcsője, a Dún Birodalom szíve (Napnyugat) |
 
 ### Feldolgozásra váró nevek (a „Világ Könyve" + régiók)
 

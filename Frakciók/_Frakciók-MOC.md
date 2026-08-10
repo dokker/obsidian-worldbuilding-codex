@@ -6,7 +6,11 @@ tags: [codex, moc, frakcio]
 # ⚔️ Frakciók
 
 ## Uralkodó / birodalmi
-- Napcsászár és a titoknokok — az isteni akarat szolgái, Zorawa nagymesterek
+- [[Napcsászár]] — a Birodalom isteni ura
+- [[titoknokok]] — a Napcsászár belső köre, Zorawa nagymesterek
+
+## Rejtett / démoni
+- [[Negyedik Démonikus Birodalom]] — az Óidők kultuszainak rejtett öröksége „közöttünk"
 
 ## Nemesség és Házak
 - [[Birodalmi rangrendszer]] — a II. Napcsászár rangrendelete (uralkodók/nagyurak/nemesek)

@@ -35,6 +35,7 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 | 2026-08-10 | L1425–L1445 | A Shinwa harmónia | [[Shinwa harmónia]], [[Shrîl-Ashra Dinasztia]] | tanítás, hét harmónia, panteon, történet; [[Zorawa Miszticizmus]] eredete frissítve |
 | 2026-08-10 | L2009 | Abrýssi szokások | [[Abrýssi szokások]] (kultúra) | |
 | 2026-08-10 | L2052, L2079, L2100 | Uralkodók | [[Sánta Othar]], [[Miraclis Narquor Artis]], [[Morgar Daron-Doar]] | szereplő-jegyzetek |
+| 2026-08-10 | L1412–L1419 | Istenek és vallások / Abrýss istenei | [[Napcsászár]], [[titoknokok]], [[Zora]], [[Dún vallás]], [[Negyedik Démonikus Birodalom]] | teológiai gerinc; [[Zorawa Miszticizmus]], [[Óidők]], [[Shinwa harmónia]] frissítve; új `Vallás-Mágia/Istenek/` mappa |
 
 ## Következő feldolgozandó szakaszok (javaslat)
 
@@ -42,11 +43,11 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 - [x] ~~L2011–L2135 — Rangok, Nemesi Házak, NAISUR/MIRACLEA/GORAGAR/NADÎR KIRÁLYSÁG~~ ✓
 - [x] ~~L2007–L2010 — Abrýssi szokások~~ ✓
 - [x] ~~L1425–L1445 — A Shinwa harmónia (tanítás, történet)~~ ✓
+- [x] ~~L1412–L1419 — Istenek és vallások; Napcsászár, Zora, Dún vallás~~ ✓
 - [ ] L2135-től — további „Hatalmasságok" / országok (Abýrnoss, Arcantis, Sýtis, Shagîr, Ardúnia, Quâboa, Xsît, Vutâs-Votar)
-- [ ] L1416 körül — Abrýss istenei → Vallások (a shinwa panteon istennevei)
-- [ ] L1445-től — Shinwa kilenc szent művészet + vallásgyakorlat részletei
-- [ ] Napcsászár (szereplő) + a titoknokok (frakció) önálló jegyzete
-- [ ] Régiók: Shagîr, Ardúnia, Quâboa, Sýtis, Xsît, Abýrnoss, Salagas Hercegség
+- [ ] L1445-től — Shinwa kilenc szent művészet + a shinwa panteon istennevei önálló jegyzetekben
+- [ ] Régiók: Shagîr (L2236), Ardúnia (L2216), Quâboa, Sýtis, Xsît, Abýrnoss, Salagas Hercegség
+- [ ] Napudvar (helyszín) + Terra ni Mare (település) önálló jegyzete
 - [ ] „Világ Könyve" pending nevei (Glosszárium): Yorsenar, Meldoa, Terra ni Mare, Úti Királyság…
 - [ ] Harciskolák (könyv vége) — lore-utalásokért is átnézni
 - [ ] Példa karakterek (könyv vége) — lore-utalásokért is átnézni

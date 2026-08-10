@@ -8,7 +8,7 @@ tags: [codex, moc, szereplo]
 Nevezetes NJK-k és személyek. Kitöltendő az ingestion során.
 
 ## Uralkodók
-- Napcsászár (Isteni Uralkodó) — a Birodalom legfőbb ura *(csonk)*
+- [[Napcsászár]] (Isteni Uralkodó) — a Birodalom legfőbb ura, [[Zora]] megtestesülése
 - [[Sánta Othar]] — a Naisuri Kagan ([[Naisur]])
 - [[Miraclis Narquor Artis]] — [[Miraclea]] nagyfejedelme
 - [[Morgar Daron-Doar]] — [[Goragar]] fejedelme

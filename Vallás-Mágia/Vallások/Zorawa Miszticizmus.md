@@ -35,13 +35,26 @@ gondozott és elhagyott világok, idő-szülte világok (ahol az idő a legfőbb
 [[Nadýss]]), és a legsötétebbek, a **démonok** uralta világok — a démonok a nemlét
 megtestesülései.
 
+### A Teremtő és az istenek
+
+A zorawa minden isten létét elismeri, de a **[[Dún vallás|dún]] Istent** az istenek
+felett álló **Teremtővel** azonosítja — aki már nem isten, hanem maga a **Rend**, a
+Világegyetem legfelsőbb törvénye, egyfajta **ős-ok**. Megközelíthetetlen és személytelen:
+nem lehet hozzá fohászkodni, sem hasonlóvá válni, mert maga a Mindenség. Az istenek az ő
+**részei** — személyes lények, akik segítenek, s akik közé az ember is **felemelkedhet**.
+
+A zorawa felismerte a shinwa panteon **[[Zora]]** istene és a dún **Fényhozó Angyal**
+azonosságát: Zora az egyik leghatalmasabb isten, aki segíti a halandók felemelkedését —
+s ennek legszembeötlőbb jele maga a **[[Napcsászár]]**, akiben Zora megtestesült.
+
 ## Eredet
 
-A Zorawa a **[[Shinwa harmónia|shinwa]] és a [[Dún Birodalom|dún]] vallás tanításainak
-összegzéséből** született. Szinte teljesen megőrizte a shinwa tanításait, de számos
-oldalról kiegészítette: a Világegyetemet szétbontja és megmagyarázza, a harmóniát nem
-összhangnak, hanem **uralomnak** tekinti, és nagyobb szerepet ad az isteneknek. Épp a
-Zorawa szorította végleg háttérbe a shinwát, az Első Napcsászár korára.
+A Zorawa a **[[Shinwa harmónia|shinwa]] filozófia és a [[Dún vallás|dún]] teológia
+összegzéséből** született, a Császári dinasztia kettészakadása idején. Szinte teljesen
+megőrizte a shinwa tanításait, de kiegészítette: a Világegyetemet szétbontja és
+megmagyarázza, a harmóniát nem összhangnak, hanem **uralomnak** tekinti, és nagyobb
+szerepet ad az isteneknek. Épp a Zorawa szorította végleg háttérbe a shinwát, az Első
+[[Napcsászár]] korára.
 
 ## Gyakorlat, rendek, szent helyek
 
