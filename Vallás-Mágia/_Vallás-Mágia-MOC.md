@@ -19,10 +19,15 @@ tags: [codex, moc, vallas, magia]
 - [[morâd]] — az „angyal": isten és halandó közti közvetítő
 - shinwa panteon: Darkor, Krîris, Fator … *(csonk)*
 
-## Mágiarendszerek és misztika
+## Mágia — alapfogalmak
+- [[Aura]] — a mágikus akarat (mágiaellenállás, varázslás alapja)
+- [[Mana]] — a mágikus energia; az Aurán belül uralható
+- [[Harmadik Szem]] — az Aurák és szellemlények érzékelése
 - [[Árnyékvilág]] — a három sík: Anyagi, Asztrál, Mentál
+
+## Mágiarendszerek és misztika
 - [[khîrin]] — a harci transz képessége (a [[Morte Silmoris]] alapja)
-- Aura · Árnyékvilág mágiája · Nekromancia és Liturgia *(csonk)*
-- Szellemnyelv, szellemlények
+- [[Szellemnyelv]], [[Szellemlény|szellemlények]]
+- Árnyékvilág mágiája · Nekromancia és Liturgia · diszciplínák *(csonk)*
 
 > [!note] Kézi lista; `.base` nézet a `type: vallas` / `type: magia` alapján is készíthető.

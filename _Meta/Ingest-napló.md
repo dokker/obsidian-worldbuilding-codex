@@ -45,6 +45,7 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 
 | 2026-08-10 | L2267–L2309 | Morte Silmoris harcművészet | [[Morte Silmoris]], [[khîrin]], [[Árnyékvilág]], [[Morte Silmoris Ventorra]], [[Csorbatorony]], [[Arshan Nagymester]] | Shagîrra alapág + sýtisi merénylők; [[Shagîri Harciskola]] frissítve |
 | 2026-08-10 | L1761–L1803 | Metafizika: a Hét Sík és a lények | [[Hét Sík]], [[Teremtő]], [[Bolygószellem]], [[morâd]], [[Démon]], [[Szellemlény]], [[Szellemnyelv]], [[Halott világok]] | a kozmológiai gerinc; a morâd-kettősség feloldva; Bestiárium feltöltve |
+| 2026-08-10 | L834–L863 | Mágia alapfogalmai | [[Aura]], [[Mana]], [[Harmadik Szem]] | mágikus akarat, Auraérintés, kiterjesztés; mechanika kihagyva |
 
 > **Mérföldkő:** a Birodalom mind a **tizenkét országa** jegyzetet kapott, és a
 > **teljes datált történelem** (i.e. ~8000 – I. 250) idővonalba rendeződött.
@@ -62,8 +63,10 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 - [x] ~~L1908–L1972 — Az írott történelem datált kronológiája~~ ✓
 - [x] ~~L2267–L2309 — Morte Silmoris (Shagîrra, Ventorra), khîrin, Árnyékvilág~~ ✓
 - [x] ~~L1761–L1803 — Metafizika: Hét Sík, bolygószellem, morâd, démon, szellemlény~~ ✓
+- [x] ~~L834–L863 — Aura, Mana, Harmadik Szem (mágia alapfogalmak)~~ ✓
 - [ ] Morte Silmoris **Vîtor** ág (Igaz Világ Harcosai, Papírláng) + a birodalmi ágazatok
-- [ ] Mágiarendszerek lore-szintű feldolgozása (Aura, Árnyékvilág mágiája, diszciplínák)
+- [ ] Aura-diszciplínák (Feloldódás, Befogadás, Telepátia, Empátia, Hazatérés…) + varázslóiskolák (L860-950)
+- [ ] Árnyékvilág mágiája részletei (L950-1244)
 - [ ] Befogadás/felszentelés, papság, próféták (L1780-1786) → külön fogalmi jegyzet
 - [ ] Salagas Hercegség önálló régió-jegyzete; nador „Hatalmasságok" (L2141: Kirscu, Ver, Kounrek)
 - [ ] Térképi feltáratlan földek: Nuatir, Mortâlis, Shurkan-szigetek, Kristály-sivatag

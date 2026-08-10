@@ -151,6 +151,11 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | védőszent / őristen | fogalom | a lényünket az Istenek Síkján óvó morâd vagy isten |
 | Liturgia / Nekromancia | magia | lélekidézés felsőbb (isteni) ill. alsóbb (mágikus) késztetéssel |
 | Harmadik Szem | fogalom | a szellemlények, a síkokon túli világ érzékelésének képessége |
+| Aura | magia | a mágikus akarat; a mágiaellenállás és varázslás alapja |
+| Mana | magia | a mágikus energia; az Aurán belül fókuszálható |
+| Auraérintés | magia | két Aura összeérése (érintés, tekintet, kiterjesztés) — a varázslás alapja |
+| varázstudó / defensis / belső testőr | fogalom | erős Aurájú rangok (defensis: Aura 40+) |
+| két nagy iskola / varázslóiskolák | frakcio | a mágia két fő rendszere; geográfiai iskolák (Északi, Északnyugati, Délnyugati, Délkeleti) |
 
 ### Feldolgozásra váró nevek (a „Világ Könyve" + régiók)
 
