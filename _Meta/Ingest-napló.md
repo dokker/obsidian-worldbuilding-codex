@@ -27,16 +27,22 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 | 2026-08-10 | L1990–L2013 | Geográfia / Abrýss | [[Abrýss]] | minta |
 | 2026-08-10 | L1813–L1817, L1819–L1825 | Nadîr, az Ős-Szellem | [[Nadîr, az Ős-Szellem]], [[nador]], [[Nadîr Királyság]] | teljes tanítás; invokációk mechanikája kihagyva |
 | 2026-08-10 | L1869–L1870 | Világ Könyve (bölcs szavai) | [[Óidők]] (frissítve), [[Nadýss]] (frissítve), [[gorg]], [[Sápadt Vándor]] | sok név regisztrálva a Glosszáriumba (pending) |
+| 2026-08-10 | L2013–L2028 | Rangok és Nemesi Házak | [[Birodalmi rangrendszer]], [[Nemesi Házak]], [[Carvis Ház]], [[Noras Nagy Ház]] | a 12 ország méltóságai; [[Abrýss]] frissítve |
+| 2026-08-10 | L2030–L2054 | NAISUR (ghodi, kharag) | [[Naisur]], [[ghodi]], [[kharag]] | mechanika kihagyva |
+| 2026-08-10 | L2056–L2081 | MIRACLEA | [[Miraclea]] | menhirek/mágiakioltás; Menhîr, uralkodó |
+| 2026-08-10 | L2083–L2100 | GORAGAR (gorg) | [[Goragar]], [[gorg]] (bővítve), [[Dotar]] | teljes gorg történelem + biológia |
+| 2026-08-10 | L2102–L2104 | NADÎR KIRÁLYSÁG | [[Nadîr Királyság]] (bővítve), [[nador]] (bővítve) | eredettörténet, VI. Napcsászár |
 
 ## Következő feldolgozandó szakaszok (javaslat)
 
 - [x] ~~L1813–L1873 — Nadîr, az Ős-Szellem~~ ✓
+- [x] ~~L2011–L2135 — Rangok, Nemesi Házak, NAISUR/MIRACLEA/GORAGAR/NADÎR KIRÁLYSÁG~~ ✓
 - [ ] L2007–L2010 — Abrýssi szokások → [[Abrýssi szokások]] (kultúra)
-- [ ] L2011–L2135 — Abrýssi hatalmasságok, rangok, NAISUR/GORAGAR/NADÎR KIRÁLYSÁG → Frakciók / Népek / Régiók
+- [ ] L2135-től — további „Hatalmasságok" / országok (Abýrnoss, Arcantis, Sýtis, Shagîr, Ardúnia, Quâboa, Xsît, Vutâs-Votar)
 - [ ] L1416 körül — Abrýss istenei → Vallások
 - [ ] L1443–L1509 — Shinwa vallásgyakorlat, misztikus képességek → [[Shinwa harmónia]]
-- [ ] Népek részletei: ghodi, kharag (külön jegyzet) → Népek-Kultúrák/Népek
-- [ ] Régiók külön jegyzetei: Shagîr, Ardúnia, Goragar, Quâboa, Sýtis, Miraclea, Xsît…
-- [ ] „Világ Könyve" pending nevei (Glosszárium): Salagas, Yorsenar, Meldoa, Terra ni Mare, Dún Birodalom, Úti Királyság…
+- [ ] Szereplő-jegyzetek: Sánta Othar, Miraclis Narquor Artis, Morgar Daron-Doar, Napcsászár
+- [ ] Régiók: Shagîr, Ardúnia, Quâboa, Sýtis, Xsît, Abýrnoss, Salagas Hercegség
+- [ ] „Világ Könyve" pending nevei (Glosszárium): Yorsenar, Meldoa, Terra ni Mare, Úti Királyság…
 - [ ] Harciskolák (könyv vége) — lore-utalásokért is átnézni
 - [ ] Példa karakterek (könyv vége) — lore-utalásokért is átnézni

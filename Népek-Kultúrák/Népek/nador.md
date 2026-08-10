@@ -4,7 +4,7 @@ aliases: [nadorok, nador nép, Nadîr őrzői]
 tags: [codex, nep]
 status: vazlat
 kanon: biztos
-forras: ["full_codex.md#L1817", "full_codex.md#L1996-L1997", "full_codex.md#L1825"]
+forras: ["full_codex.md#L1817", "full_codex.md#L1996-L1997", "full_codex.md#L1825", "full_codex.md#L2104"]
 ocr_bizonytalan: false
 kapcsolodo: ["[[Nadîr, az Ős-Szellem]]", "[[Nadîr Királyság]]", "[[Abrýss]]", "[[Sárkánygerinc Hegység]]"]
 elohely: "Abrýss nyugati határhegysége ([[Nadîr Királyság]])"
@@ -31,10 +31,20 @@ A nadorok jellegzetes, **hószín bőrű, fehér hajú, gleccserkék tekintetű*
   Természettel való harmóniából fakadnak.
 - Csak azt veszik el a világtól, amire szükségük van, és köszönetet mondanak érte.
 
+## Eredet és külső
+
+Valószínűleg [[Nadýss]] **őshonos fajtái** közül valók (innen a bolygószellemhez való
+kötődés). A ~30 000 éve érkező jégkorszak elől húzódtak délre; a keleti pusztákon
+vészelték át, sámánjaik segítségével. Hogy megóvják népüket „Nadîr Fagyos Leheletétől",
+a sámánok apránként **megváltoztatták a leszülető ember-szellemek anyagi jegyeit** — így
+öltötte fel a nép mai külsejét: hószín bőr, fehér haj, kék szem, szívós fizikum.
+
 ## Élőhely és kapcsolatok
 
-Országuk a hosszan elnyúló hegyi királyság, a [[Nadîr Királyság]]. Bolygóközpontú
-misztikájuk okán természetes tényként fogadták el a Napcsászár létét és vezérlő szerepét.
+Országuk a hosszan elnyúló hegyi királyság, a [[Nadîr Királyság]] (a [[Sárkánygerinc
+Hegység]] nyugati íve); talán 3–400 ezren élnek szétszórtan a bércek közt, leginkább a
+Sýtis feletti hegyekben, a Shîror völgyében. Bolygóközpontú misztikájuk okán természetes
+tényként fogadták el a Napcsászár létét és vezérlő szerepét.
 
 ## Nyitott kérdések / OCR-bizonytalanságok
 

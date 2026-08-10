@@ -48,13 +48,35 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Dún Birodalom (Dún vallás) | frakcio/vallas | elsöpörte a Napnyugati Démonikus Császárságot; Terra ni Mare központtal |
 | kevert lények | leny | az Óidők mágusai által alkotott torz fenevadak |
 | elveszett városok | helyszin | az Óidők építményei; „senki sem akarja megtalálni" |
+| Birodalmi rangrendszer | fogalom | II. Napcsászár rangrendelete (3 kaszt) |
+| Nemesi Házak (Nagy/Kis/Kereskedő) | frakcio | nemesi szövetségek; vezető: Házfő |
+| Carvis Ház | frakcio | a legerősebb Nagy Ház; Sýtis; a Noras ellenfele |
+| Noras Nagy Ház | frakcio | Salagas hercege vezeti; öt főrendi család |
+| Naisur | régió | a ghodi és kharag földje; rang: Kagan |
+| Naisuri Kagan | cím/szereplő | a legerősebb ghodi nemzetség feje; most Sánta Othar |
+| Khirarat nemzetség | frakcio | a Kagan-adó ghodi nemzetség; Tesun várossal |
+| Tesun | település | a Khirarat nemzetség városa (Naisur) |
+| Miraclea | régió | menhirek mágiakioltó fennsíkja; rang: Nagyfejedelem |
+| Menhîr | település | Miraclea zászlósvárosa az ősi menhirek tövében |
+| Miraclis Narquor Artis | szereplő | Miraclea nagyfejedelme |
+| Goragar | régió/sziget | a gorgok fejedelemsége; rang: Fejedelem |
+| Morgar Daron-Doar | szereplő | Goragar fejedelme |
+| Dotar | vallas | a gorgok sosem ábrázolt harcos-istene |
+| rugga | tárgy | gorg holdtőr/ökölfegyver · torag: gorg köntös · agot: ezüstöv |
+| Gorgan Birodalom | frakcio/korszak | a gorgok napnyugati birodalma (Terra Incognita) |
+| Fehérpajzsos Lovagrend | frakcio | „Ember Szolgái", visszaszorították a gorgokat |
+| Jégsír (csata) | esemeny | dún-218; a gorgok döntő veresége a dúnoktól |
+| Terra Incognita | helyszin | északnyugati síkság, a gorgok egykori otthona |
+| Dún Birodalom (Dún vallás) | frakcio/vallas | elsöpörte a Napnyugati Démonikus Császárságot; Terra ni Mare központtal |
+| kevert lények | leny | az Óidők mágusai által alkotott torz fenevadak |
+| elveszett városok | helyszin | az Óidők építményei; „senki sem akarja megtalálni" |
 
-### Feldolgozásra váró nevek (a „Világ Könyve", L1869-ből)
+### Feldolgozásra váró nevek (a „Világ Könyve" + régiók)
 
-Salagas Hercegség, Yorsenar, Meldoa, Terra ni Mare, Úti Királyság, meldánok, Napudvar,
-Shrîl-Ashra seregek, Carvis Ház (Sýtis), Tiltott Tartomány / Császári Kanton
-meditációs kertjei, Tízezer Lépés Kertje, Álmok Csatornája, Miraclea obeliszkje
-(mágiakioltó fennsík). — Ezekhez még nincs jegyzet; ingestkor dolgozandók fel.
+Yorsenar, Meldoa, Terra ni Mare, Úti Királyság, meldánok, Napudvar, Shrîl-Ashra seregek,
+Tiltott Tartomány / Császári Kanton meditációs kertjei, Tízezer Lépés Kertje, Álmok
+Csatornája, Salagas Hercegség (régió-jegyzet), Abýrnoss, Arcantis, Sýtis, Xsît,
+Vutâs-Votar, Quâboa, Shagîr, Ardúnia (régió-jegyzetek). — Ingestkor dolgozandók fel.
 
 ## OCR-normalizálási szabályok
 

@@ -49,6 +49,13 @@ A jövendölés országokról beszél, de határokról nem — ezért a hódít�
 amíg a Birodalom **mindig tizenkét országból áll**. A dinasztiák „árnyékháborút" vívnak;
 a törvények ezt támogatják a csatamezei vérontás helyett.
 
+A nemesi rangokat a **[[Birodalmi rangrendszer]]** egységesíti (II. Napcsászár rendelete:
+uralkodók / nagyurak / nemesek), a hűbérláncot pedig a **[[Nemesi Házak]]** intézménye
+emeli az országhatárok fölé (pl. [[Carvis Ház]], [[Noras Nagy Ház]]).
+
+A tizenkét ország: Abýrnoss, Arcantis, [[Ardúnia]], [[Goragar]], [[Miraclea]],
+[[Nadîr Királyság|Nadîr]], [[Naisur]], Quâboa, [[Shagîr]], Sýtis, Xsît, Vutâs-Votar.
+
 ## Lakók
 
 Népek: [[ghodi]] lovasnép, [[kharag]] hegyibarbárok, [[nador]] hegyinép, [[gorg]] nép

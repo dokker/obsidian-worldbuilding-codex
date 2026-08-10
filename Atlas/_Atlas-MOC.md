@@ -11,10 +11,14 @@ A CODEX világ helyszínei. Fő világ: [[Nadýss]]. Fő szárazulat: [[Abrýss]
 - [[Abrýss]] — a tizenkét ország Birodalma
 - Napnyugat földje — *(csonk, feltáratlan)*
 
-## Régiók (Abrýss)
-> A Birodalom tizenkét országa. Kitöltendő az ingestion során.
-- [[Nadîr Királyság]] — a [[nador]] nép hegyi királysága nyugaton
-- Shagîr, Ardúnia, Goragar, Quâboa, Miraclea, Xsît, Naisur, Salagas Hercegség … *(csonk)*
+## Régiók — a tizenkét ország
+> Rangokkal együtt lásd: [[Birodalmi rangrendszer]].
+- [[Nadîr Királyság]] — a [[nador]] nép hegyi királysága (Nagy Öreg)
+- [[Naisur]] — a [[ghodi]] és [[kharag]] fagyos földje (Kagan)
+- [[Miraclea]] — a menhirek mágiakioltó fennsíkja, harcos kultúra (Nagyfejedelem)
+- [[Goragar]] — a [[gorg]] nép jeges szigetfejedelemsége
+- Abýrnoss, Arcantis, Ardúnia, Quâboa, Shagîr, Sýtis, Xsît, Vutâs-Votar … *(csonk)*
+- Salagas Hercegség — független hercegség [[Naisur]] területén ([[Noras Nagy Ház]])
 
 ## Nevezetes helyszínek
 - [[Sárkánygerinc Hegység]] — a földrész gerince
