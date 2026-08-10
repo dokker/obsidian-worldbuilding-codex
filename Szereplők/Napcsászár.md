@@ -30,7 +30,8 @@ ellen harcol (lásd [[Óidők]], [[Negyedik Démonikus Birodalom]]). Akaratát a
 A [[Zorawa Miszticizmus]] szerint a Napcsászárban **[[Zora]]** isten (a shinwa panteon
 egyik leghatalmasabbja, a dún **Fényhozó Angyal**) testesült meg — ő az, aki hathatósan
 segíti a halandók felemelkedését a halhatatlanok közé. Ez a Birodalom isteni
-legitimációjának sarokköve.
+legitimációjának sarokköve. A megtestesülést a Zorawa nagymesterei idézték meg
+**i.e. 22-ben**, s az ifjú **I. 0-ban** lépett a trónra ([[A Napcsászár eljövetele]]).
 
 ## Hatalom és tettek
 

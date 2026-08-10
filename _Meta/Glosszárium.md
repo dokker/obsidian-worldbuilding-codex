@@ -118,6 +118,20 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Délnyugati / Délkeleti / Északi / Északnyugati Varázslóiskola | frakcio | elszigetelt mágusiskolák a Sárkánygerinc mentén |
 | Délkeleti Rendház | frakcio | démonimádó túlélő szekta rejtekhelye Arcantisban (Császári Iskola) |
 | Nuatir, Mortâlis | helyszin | térképi földek a 12 országon túl (#13, #14) — még feltáratlan |
+| időszámítás | fogalom | „i.e." = a Napcsászárok kora előtt; „I. <év>" = a Napcsászárok korában |
+| holdnap | fogalom | 12 napos időegység (a Sápadt Vándor ciklusa); innen a 12 ország jövendölése |
+| Napcsászárok kora | korszak | I. 0-tól napjainkig, az Abrýss Birodalom kora |
+| Shrîl-Ashra Birodalom | korszak | a dinasztia napkeleti birodalma, i.e. 1285 – I. 0 |
+| Osharîl (Shrîl herceg) | szereplő | a száműzött herceg, a dinasztia alapítója (i.e. XIII. sz.) |
+| Ashra király | szereplő | a Császárváros ura, akivel a Shrîl-ág szövetkezett (i.e. 1245) |
+| Dún–Shrîl-Ashra háború | esemeny | i.e. 450–426, a nagy mágusháború |
+| A Napcsászár eljövetele | esemeny | I. 0, a Zorawa Árnyékbirodalom hatalomátvétele |
+| Az öt Óskirályság | esemeny | I. 1–15, a Birodalom alapító királyságai + a jövendölés |
+| Irathîl herceg lázadása | esemeny | I. 38, a Shrîl-Ashra sikertelen visszafoglalása |
+| A végtelen csaták kora | esemeny | I. 78–250, lázadások és a bolygószellemmel való kiegyezés |
+| Fényes/Fénylő Dicsőség Öble | helyszin | a Tiltott Kanton északi partja, a Shrîl partraszállások helye |
+| arcantisi térkapu | fogalom | az Arcantisban felfedezett, i.e. 427-ben bezárt mágikus kapu |
+| Shîlva Shrîl Királyság | korszak | a Shagîron alapított királyság (i.e. 3. évezred) |
 
 ### Feldolgozásra váró nevek (a „Világ Könyve" + régiók)
 
