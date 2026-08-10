@@ -29,9 +29,15 @@ szerzetesek **fanatikus testőrökké és kiképzőkké** lettek, s köréjük �
 - **Külső rend**: bárki tanulhat benne, a szigetről vagy a Birodalomból; vallási és
   politikai tanítást viszont itt nem oktatnak.
 
+## A tanított harcművészet
+
+Az itt oktatott stílus a **[[Morte Silmoris|Morte Silmoris Shagîrra]]** (Mîor Shil), a
+[[khîrin]] harci transzra épülő alapirányzat; központi iskolája a **[[Csorbatorony]]**,
+mai vezetője **[[Arshan Nagymester]]**. Végzettje a **shîl** (servin).
+
 ## Nyitott kérdések / OCR-bizonytalanságok
 
-- A „Morte Silmoris Shagîrra (Mîor Shil)" tanításának részletei (L2267-től) még feldolgozandók.
+- A Vîtor ágazat (Igaz Világ Harcosai) és a birodalmi ágazatok kapcsolata kidolgozandó.
 
 ## Források
 - `full_codex.md#L2241` (a harciskola eredete, a két rend)

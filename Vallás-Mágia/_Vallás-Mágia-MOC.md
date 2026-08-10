@@ -17,10 +17,9 @@ tags: [codex, moc, vallas, magia]
 - A Teremtő (a Rend) · shinwa panteon: Darkor, Krîris, Fator … *(csonk)*
 
 ## Mágiarendszerek és misztika
-- Aura
-- Árnyékvilág mágiája
-- Nekromancia és Liturgia
-- [[Khîrin]] — a harci transz képessége
+- [[Árnyékvilág]] — a három sík: Anyagi, Asztrál, Mentál
+- [[khîrin]] — a harci transz képessége (a [[Morte Silmoris]] alapja)
+- Aura · Árnyékvilág mágiája · Nekromancia és Liturgia *(csonk)*
 - Szellemnyelv, szellemlények
 
 > [!note] Kézi lista; `.base` nézet a `type: vallas` / `type: magia` alapján is készíthető.

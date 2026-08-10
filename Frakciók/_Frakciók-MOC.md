@@ -21,8 +21,10 @@ tags: [codex, moc, frakcio]
 ## Dinasztiák
 - [[Shrîl-Ashra Dinasztia]] — az írott történelem hajnalának abrýssi uralkodóháza
 
-## Harciskolák
-- [[Shagîri Harciskola]] (Morte Silmoris Shagîrra) — a Shrîl-Ashra kolostor-iskolája
-- Fekete Rózsa, Kardnemes, Mestergyilkos rendek …
+## Harcművészet — Morte Silmoris
+- [[Morte Silmoris]] — a [[khîrin]] harci transz harcművészete (három ágazat)
+  - [[Shagîri Harciskola]] + [[Csorbatorony]] — a Shagîrra alapirányzat ([[Arshan Nagymester]])
+  - [[Morte Silmoris Ventorra]] — a sýtisi merénylő-ág
+- Fekete Rózsa, Kardnemes, Mestergyilkos rendek … *(csonk)*
 
 > [!note] Kézi lista; `.base` nézet a `type: frakcio` alapján is készíthető.

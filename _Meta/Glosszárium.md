@@ -132,6 +132,15 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Fényes/Fénylő Dicsőség Öble | helyszin | a Tiltott Kanton északi partja, a Shrîl partraszállások helye |
 | arcantisi térkapu | fogalom | az Arcantisban felfedezett, i.e. 427-ben bezárt mágikus kapu |
 | Shîlva Shrîl Királyság | korszak | a Shagîron alapított királyság (i.e. 3. évezred) |
+| Morte Silmoris | frakcio | a khîrinre épülő harcművészet (Shagîrra/Ventorra/Vîtor ágakkal) |
+| Öt Álom Tánca | fogalom | a Morte Silmoris Shagîrra technikasorai |
+| shîl / servin | fogalom | a Shagîrra végzett harcos-tanítója (abrýssi nevén servin) |
+| Csorbatorony | frakcio | a Shagîrra központi iskolája; jelképe a lángövezte bástya |
+| Arshan Nagymester | szereplő | a Csorbatorony/Shagîrra vezetője (IX.1190) |
+| Morte Silmoris Ventorra | frakcio | a legfiatalabb, sýtisi merénylő-ág; „ventorra" = gyilkos |
+| Venatis Marvenor | szereplő | a Ventorra alapítója (IX.832) |
+| Vîtor (Igaz Világ Harcosai) | frakcio | a Morte Silmoris harmadik ágazata — még feltáratlan |
+| Árnyékvilág | magia/fogalom | a megélt világ + három sík: Anyagi, Asztrál, Mentál |
 
 ### Feldolgozásra váró nevek (a „Világ Könyve" + régiók)
 
