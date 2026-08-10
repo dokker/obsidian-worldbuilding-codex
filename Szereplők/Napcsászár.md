@@ -19,8 +19,7 @@ allapot: él
 
 ## Áttekintés
 
-A Napcsászár az **Isteni Uralkodó**, [[Abrýss]] legfőbb ura, aki fölött a [[Birodalmi
-rangrendszer]] szerint senki nem áll. Céljai magasabbrendűek a pillanatnyi politikai
+A Napcsászár az **Isteni Uralkodó**, [[Abrýss]] legfőbb ura, aki fölött a [[Birodalmi rangrendszer]] szerint senki nem áll. Céljai magasabbrendűek a pillanatnyi politikai
 viszályoknál: a Birodalom **egységére** felügyel és az **ősi, démoni erők** újjáéledése
 ellen harcol (lásd [[Óidők]], [[Negyedik Démonikus Birodalom]]). Akaratát a
 **[[titoknokok]]** — belső köre, a legnagyobb varázstudók — közvetítik.

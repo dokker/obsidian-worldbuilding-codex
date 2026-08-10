@@ -41,8 +41,7 @@ a sámánok apránként **megváltoztatták a leszülető ember-szellemek anyagi
 
 ## Élőhely és kapcsolatok
 
-Országuk a hosszan elnyúló hegyi királyság, a [[Nadîr Királyság]] (a [[Sárkánygerinc
-Hegység]] nyugati íve); talán 3–400 ezren élnek szétszórtan a bércek közt, leginkább a
+Országuk a hosszan elnyúló hegyi királyság, a [[Nadîr Királyság]] (a [[Sárkánygerinc Hegység]] nyugati íve); talán 3–400 ezren élnek szétszórtan a bércek közt, leginkább a
 Sýtis feletti hegyekben, a Shîror völgyében. Bolygóközpontú misztikájuk okán természetes
 tényként fogadták el a Napcsászár létét és vezérlő szerepét.
 

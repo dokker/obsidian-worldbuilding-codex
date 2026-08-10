@@ -16,8 +16,7 @@ veg: "I. 0"
 
 ## Áttekintés
 
-A birodalmat **i.e. 1285-ben** alapította a [[Shrîl-Ashra Dinasztia]] a mai [[Tiltott
-Kanton]] területén. Terjeszkedése: [[Quâboa]] (i.e. 1100), [[Sýtis]] (i.e. 954), majd
+A birodalmat **i.e. 1285-ben** alapította a [[Shrîl-Ashra Dinasztia]] a mai [[Tiltott Kanton]] területén. Terjeszkedése: [[Quâboa]] (i.e. 1100), [[Sýtis]] (i.e. 954), majd
 [[Shagîr]] trónja (i.e. 900). A hódítás után „titkos tervekbe" fogott, s hat shagîri
 varázstudó hatalmára támaszkodott.
 

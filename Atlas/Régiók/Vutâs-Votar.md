@@ -22,8 +22,7 @@ birodalom: Abrýss Birodalom
 A két tavat két **mitikus hős**, a verseng ikertestvérek — **Vutâs és Votar** — nevét
 őrzi. A végtelennek tetsző kék tükröt dús erdők szegélyezik; a falvak lakói **csónakkal**
 járják a lápi erdőt, csónakból vadásznak. A tóparti lápban csak a helyiek ismerik a
-járást; a hagyomány szerint víziút köti össze a két tavat. Délnyugaton a [[Sárkánygerinc
-Hegység]] csipkés hegyekké szelídül, s a Votar partján merül el; itt rejtőzik a
+járást; a hagyomány szerint víziút köti össze a két tavat. Délnyugaton a [[Sárkánygerinc Hegység]] csipkés hegyekké szelídül, s a Votar partján merül el; itt rejtőzik a
 **Délnyugati Varázslóiskola** (amelyhez nem vezet út). Túloldalon [[Arcantis]] erdei.
 
 ## Uralkodás

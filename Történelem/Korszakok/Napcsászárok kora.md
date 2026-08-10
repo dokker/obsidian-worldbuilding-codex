@@ -24,8 +24,7 @@ emlékeinek eltörlését is.)
 
 ## Fő szakaszai
 
-- **I. 0–38**: az új rend megszilárdulása; [[Az öt Óskirályság]], [[Irathîl herceg
-  lázadása]], majd a **Napkeleti Birodalom** kikiáltása.
+- **I. 0–38**: az új rend megszilárdulása; [[Az öt Óskirályság]], [[Irathîl herceg lázadása]], majd a **Napkeleti Birodalom** kikiáltása.
 - **I. 78–250**: [[A végtelen csaták kora]] — a lázadások leverése, kiegyezés a
   bolygószellemmel; [[Shagîr]] feldúlása (I. 250).
 - **A négy évezred**: a kor kilenc Napcsászár uralkodását öleli fel; a „Világ Könyve"

@@ -41,7 +41,9 @@ A CODEX világ helyszínei. Fő világ: [[Nadýss]]. Fő szárazulat: [[Abrýss]
 - [[Apologeta]] — Ardúnia zászlósvárosa, a Pátriárka székhelye
 - [[Catella]] — az ardún királyok tóparti székvárosa
 - [[Mequinas]] — Abýrnoss nagy kikötővárosa (sýtisi/Carvis befolyás)
-- Shagîr városa, Mîthis, Naoenao, Menhîr, Tesun, Nakhanis … *(csonk)*
+- [[Menhîr]] — Miraclea zászlósvárosa a menhirek tövében
+- [[Mîthis]] — a Zorawa rejtett kolostorvárosa
+- Shagîr városa, Naoenao, Tesun, Nakhanis, Aquas … *(csonk)*
 
 ## Természeti / kozmikus
 - [[Nadýss]] — a világ (glóbusz)

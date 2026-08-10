@@ -1,6 +1,6 @@
 ---
 type: szereplo
-aliases: [Sánta Othar]
+aliases: [Sánta Othar, Naisuri Kagan]
 tags: [codex, szereplo, uralkodo]
 status: csonk
 kanon: biztos

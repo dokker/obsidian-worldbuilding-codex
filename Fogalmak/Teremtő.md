@@ -16,7 +16,7 @@ kategoria: legfelső elv
 ## Jelentés
 
 A Teremtő **maga a Mindenség**, az oszthatatlan egység, aki megalkotja a Létezést, s
-alkotása ezzel véget is ér (lásd [[Zorawa Miszticizmus|Zorawa teremtéstörténet]]). A
+alkotása ezzel véget is ér (lásd [[Zorawa Miszticizmus#Tanítások és világkép (teremtéstörténet)|Zorawa teremtéstörténet]]). A
 zorawa a **[[Dún vallás|dún]] Istent** vele azonosítja: már nem isten, hanem a **Rend**, a
 legfelsőbb törvény, egyfajta **ős-ok**. Személytelen és megközelíthetetlen — nem lehet
 hozzá fohászkodni, sem hasonlóvá válni, mert ő maga a Mindenség; csak **törvények

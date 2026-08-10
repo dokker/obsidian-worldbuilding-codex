@@ -18,8 +18,9 @@ tags: [codex, moc, frakcio]
 - [[Carvis Ház]] — a Birodalom talán legerősebb Nagy Háza
 - [[Noras Nagy Ház]] — a Carvis ősi ellenfele, Salagas hercege vezeti
 
-## Dinasztiák
+## Dinasztiák és birodalmak
 - [[Shrîl-Ashra Dinasztia]] — az írott történelem hajnalának abrýssi uralkodóháza
+- [[Dún Birodalom]] — Napnyugat (levitézlett) nagyhatalma, a dún vallás birodalma
 
 ## Harcművészet — Morte Silmoris
 - [[Morte Silmoris]] — a [[khîrin]] harci transz harcművészete (három ágazat)

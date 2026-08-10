@@ -21,7 +21,7 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 
 | Dátum | Forrás sortartomány | Szakasz | Létrehozott/frissített jegyzetek | Megjegyzés |
 |---|---|---|---|---|
-| 2026-08-10 | L1876–L1880 | Zorawa teremtéstörténet | [[Zorawa Miszticizmus]], [[Zorawa teremtéstörténet]] | minta |
+| 2026-08-10 | L1876–L1880 | Zorawa teremtéstörténet | [[Zorawa Miszticizmus]] | minta |
 | 2026-08-10 | L1882–L1892 | Világmindenség / Nadýss | [[Nadýss]] | minta |
 | 2026-08-10 | L1894–L1902 | Történelem – Óidők | [[Óidők]] | minta |
 | 2026-08-10 | L1990–L2013 | Geográfia / Abrýss | [[Abrýss]] | minta |
@@ -46,6 +46,7 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 | 2026-08-10 | L2267–L2309 | Morte Silmoris harcművészet | [[Morte Silmoris]], [[khîrin]], [[Árnyékvilág]], [[Morte Silmoris Ventorra]], [[Csorbatorony]], [[Arshan Nagymester]] | Shagîrra alapág + sýtisi merénylők; [[Shagîri Harciskola]] frissítve |
 | 2026-08-10 | L1761–L1803 | Metafizika: a Hét Sík és a lények | [[Hét Sík]], [[Teremtő]], [[Bolygószellem]], [[morâd]], [[Démon]], [[Szellemlény]], [[Szellemnyelv]], [[Halott világok]] | a kozmológiai gerinc; a morâd-kettősség feloldva; Bestiárium feltöltve |
 | 2026-08-10 | L834–L863 | Mágia alapfogalmai | [[Aura]], [[Mana]], [[Harmadik Szem]] | mágikus akarat, Auraérintés, kiterjesztés; mechanika kihagyva |
+| 2026-08-10 | — (konzisztencia-kör) | Törött linkek javítása, hiánypótlás | [[Dún Birodalom]], [[Abrýss Kelyhe]], [[Menhîr]], [[Mîthis]], [[Árnyékháború]], [[Jégsír]], [[Ardún vallásháború]] | 8 sortöréses + 1 escape-elt link javítva; „Naisuri Kagan" alias; 0 törött link, 0 valódi árva |
 
 > **Mérföldkő:** a Birodalom mind a **tizenkét országa** jegyzetet kapott, és a
 > **teljes datált történelem** (i.e. ~8000 – I. 250) idővonalba rendeződött.

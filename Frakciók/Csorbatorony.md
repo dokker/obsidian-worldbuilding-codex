@@ -20,8 +20,7 @@ vezeto: "[[Arshan Nagymester]]"
 A Csorbatorony a Shagîrra alapirányzat **központi iskolája**; jelképe a **lángok övezte
 bástya** (a pusztulásra és újjászületésre emlékeztetve). Mesterei névleg ellenőrzést
 gyakorolnak [[Shagîr]] minden [[Morte Silmoris]]-tanulója felett, bár ritkán avatkoznak
-be. Az iskola — s ezáltal a hercegség rendi — vezetője jelenleg (IX. 1190) **[[Arshan
-Nagymester]]**.
+be. Az iskola — s ezáltal a hercegség rendi — vezetője jelenleg (IX. 1190) **[[Arshan Nagymester]]**.
 
 ## Nyitott kérdések / OCR-bizonytalanságok
 

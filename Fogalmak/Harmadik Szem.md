@@ -22,8 +22,7 @@ síkján túl van:
   a Harmadik Szemüket fel nem nyitó emberre.
 
 Aki felhívja magára a szellemlények figyelmét, jobb, ha felkészül a „kárpit mögül" érkező
-támadásokra. A Harmadik Szem a misztikus tudományok (pl. a [[Nadîr, az Ős-Szellem|nador
-invokációk]], a herbalizmus, a mágiaismeret) egyik alapérzéke.
+támadásokra. A Harmadik Szem a misztikus tudományok (pl. a [[Nadîr, az Ős-Szellem|nador invokációk]], a herbalizmus, a mágiaismeret) egyik alapérzéke.
 
 ## Források
 - `full_codex.md#L848` (Aurák látása nyitott Harmadik Szemmel)

@@ -36,7 +36,7 @@ Az egyes országokban a „királyi" rangot eltérő címek viselik:
 | [[Ardúnia]] | Király | [[Shagîr]] | Uralkodóherceg |
 | [[Goragar]] | Fejedelem | Sýtis | Király |
 | [[Miraclea]] | Nagyfejedelem | Xsît | Nagyfejedelem |
-| [[Nadîr Királyság\|Nadîr]] | Nagy Öreg | Vutâs-Votar | Király |
+| [[Nadîr Királyság]] | Nagy Öreg | Vutâs-Votar | Király |
 
 ## Előfordulás a világban
 

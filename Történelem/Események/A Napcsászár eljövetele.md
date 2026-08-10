@@ -28,8 +28,7 @@ helyszin: "Császári Palota ([[Tiltott Kanton]])"
 ## Az esemény
 
 **I. 0** alkonyán a huszonegy éves ifjú belép a **Császári Palota** kapuján — senki nem
-állja útját. Az évszázad alatt titkon felnőtt **[[Zorawa Miszticizmus|Zorawa
-Árnyékbirodalom]]** „az álmából ébredő sárkányként" felfedi valós hatalmát: birodalomszerte
+állja útját. Az évszázad alatt titkon felnőtt **[[Zorawa Miszticizmus|Zorawa Árnyékbirodalom]]** „az álmából ébredő sárkányként" felfedi valós hatalmát: birodalomszerte
 ezrek cserélik a Shrîl-Ashrák öt körét a **Napcsászár keresztjére**, a titoknokok pedig
 kinyilatkoztatják varázserejüket. Az új [[Napcsászár]] hatalmával senki nem szállhat szembe.
 
