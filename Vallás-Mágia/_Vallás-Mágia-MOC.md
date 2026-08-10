@@ -12,9 +12,12 @@ tags: [codex, moc, vallas, magia]
 - [[Dotar]] — a gorgok harcos-istene
 - [[Dún vallás]] — Napnyugat vallása, a zorawa egyik gyökere
 
-## Istenek
+## Istenek és kozmológia
+- [[Hét Sík]] — a valóság hét síkja (kozmológiai keret)
+- [[Teremtő]] — a legfelső Rend, az ős-ok
 - [[Zora]] — a shinwa/dún főisten; a [[Napcsászár]] megtestesülése
-- A Teremtő (a Rend) · shinwa panteon: Darkor, Krîris, Fator … *(csonk)*
+- [[morâd]] — az „angyal": isten és halandó közti közvetítő
+- shinwa panteon: Darkor, Krîris, Fator … *(csonk)*
 
 ## Mágiarendszerek és misztika
 - [[Árnyékvilág]] — a három sík: Anyagi, Asztrál, Mentál

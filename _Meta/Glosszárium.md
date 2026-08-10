@@ -71,7 +71,7 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | kevert lények | leny | az Óidők mágusai által alkotott torz fenevadak |
 | elveszett városok | helyszin | az Óidők építményei; „senki sem akarja megtalálni" |
 | Shinwa harmónia | vallas | Napkelet legősibb vallása; hét harmónia; sokezer isten |
-| morâd | fogalom/lény | a shinwa legkisebb, önmagukban tökéletes istenei; vö. Óidők „morâdok" (ellenőrzendő azonosság) |
+| morâd | leny | „angyal": isten–halandó közvetítő, az azonos hitűek egyesült hite (= a shinwa „legkisebb istenei") |
 | shin-quor | tárgy/forma | a shinwában a „forma tökélyét" megtestesítő tárgy |
 | Shrîl-Ashra Dinasztia | frakcio | ősi abrýssi uralkodóház (shinwa hivatalos vallás); jelenkori „Shrîl-Ashra seregek" |
 | shinwa panteon (fő istenek) | isten | Darkor, Gorothas, Mortar, Nascor, Fator, Narsis, Krîris, Medeis, Miseris, Metha, Zora, Ambior |
@@ -141,6 +141,16 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Venatis Marvenor | szereplő | a Ventorra alapítója (IX.832) |
 | Vîtor (Igaz Világ Harcosai) | frakcio | a Morte Silmoris harmadik ágazata — még feltáratlan |
 | Árnyékvilág | magia/fogalom | a megélt világ + három sík: Anyagi, Asztrál, Mentál |
+| Hét Sík | fogalom | a valóság hét síkja: Anyagi/Asztrál/Mentál/Erők/Halhatatlanok/Istenek/Teremtő |
+| Teremtő (a Rend) | fogalom | a legfelső, személytelen ős-ok; = a dún Isten |
+| Bolygószellem | leny | egy bolygót uraló szellem; minden ott született lény hordozza szentségét |
+| Halott világok | fogalom | világok, melyek bolygószellemét megölték; minden élet kihuny |
+| Démon | leny | a Káosz teremtménye; démonúr → démonherceg → démonisten |
+| Szellemlény | leny | az Árnyékvilághoz kötött szellem/lélek; Harmadik Szemmel látható |
+| Szellemnyelv | fogalom | a szellemekkel való érintkezés szimbolikus „nyelve" |
+| védőszent / őristen | fogalom | a lényünket az Istenek Síkján óvó morâd vagy isten |
+| Liturgia / Nekromancia | magia | lélekidézés felsőbb (isteni) ill. alsóbb (mágikus) késztetéssel |
+| Harmadik Szem | fogalom | a szellemlények, a síkokon túli világ érzékelésének képessége |
 
 ### Feldolgozásra váró nevek (a „Világ Könyve" + régiók)
 

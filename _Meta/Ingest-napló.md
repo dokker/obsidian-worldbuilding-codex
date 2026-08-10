@@ -44,6 +44,7 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 | 2026-08-10 | L1908–L1972 | Az írott történelem kronológiája | Idővonal-MOC (teljes), [[Napcsászárok kora]], [[Shrîl-Ashra Birodalom]], [[Dún–Shrîl-Ashra háború]], [[A Napcsászár eljövetele]], [[Az öt Óskirályság]], [[Irathîl herceg lázadása]], [[A végtelen csaták kora]] | datált gerinc; [[Shrîl-Ashra Dinasztia]], [[Napcsászár]] frissítve |
 
 | 2026-08-10 | L2267–L2309 | Morte Silmoris harcművészet | [[Morte Silmoris]], [[khîrin]], [[Árnyékvilág]], [[Morte Silmoris Ventorra]], [[Csorbatorony]], [[Arshan Nagymester]] | Shagîrra alapág + sýtisi merénylők; [[Shagîri Harciskola]] frissítve |
+| 2026-08-10 | L1761–L1803 | Metafizika: a Hét Sík és a lények | [[Hét Sík]], [[Teremtő]], [[Bolygószellem]], [[morâd]], [[Démon]], [[Szellemlény]], [[Szellemnyelv]], [[Halott világok]] | a kozmológiai gerinc; a morâd-kettősség feloldva; Bestiárium feltöltve |
 
 > **Mérföldkő:** a Birodalom mind a **tizenkét országa** jegyzetet kapott, és a
 > **teljes datált történelem** (i.e. ~8000 – I. 250) idővonalba rendeződött.
@@ -60,8 +61,10 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 - [x] ~~A maradék 4 ország (Arcantis, Quâboa, Xsît, Vutâs-Votar)~~ ✓
 - [x] ~~L1908–L1972 — Az írott történelem datált kronológiája~~ ✓
 - [x] ~~L2267–L2309 — Morte Silmoris (Shagîrra, Ventorra), khîrin, Árnyékvilág~~ ✓
+- [x] ~~L1761–L1803 — Metafizika: Hét Sík, bolygószellem, morâd, démon, szellemlény~~ ✓
 - [ ] Morte Silmoris **Vîtor** ág (Igaz Világ Harcosai, Papírláng) + a birodalmi ágazatok
 - [ ] Mágiarendszerek lore-szintű feldolgozása (Aura, Árnyékvilág mágiája, diszciplínák)
+- [ ] Befogadás/felszentelés, papság, próféták (L1780-1786) → külön fogalmi jegyzet
 - [ ] Salagas Hercegség önálló régió-jegyzete; nador „Hatalmasságok" (L2141: Kirscu, Ver, Kounrek)
 - [ ] Térképi feltáratlan földek: Nuatir, Mortâlis, Shurkan-szigetek, Kristály-sivatag
 - [ ] L1445-től — Shinwa kilenc szent művészet + a shinwa panteon istennevei önálló jegyzetekben
