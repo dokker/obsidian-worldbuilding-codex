@@ -4,6 +4,6 @@
   "syncinterval": 0,
   "isSyncOnLoad": true,
   "checkStatusOnLoad": true,
-  "noticeLevel": "ERROR",
+  "noticeLevel": "ALL",
   "showSyncSuccessNotice": true
 }
