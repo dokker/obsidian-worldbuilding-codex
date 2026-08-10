@@ -7,7 +7,11 @@ tags: [codex, moc, szereplo]
 
 Nevezetes NJK-k és személyek. Kitöltendő az ingestion során.
 
-- Napcsászár (Isteni Uralkodó) — a Birodalom legfőbb ura
-- Nadorok „Nagy Öregje" …
+## Uralkodók
+- Napcsászár (Isteni Uralkodó) — a Birodalom legfőbb ura *(csonk)*
+- [[Sánta Othar]] — a Naisuri Kagan ([[Naisur]])
+- [[Miraclis Narquor Artis]] — [[Miraclea]] nagyfejedelme
+- [[Morgar Daron-Doar]] — [[Goragar]] fejedelme
+- Nadorok „Nagy Öregje" ([[Nadîr Királyság]]) …
 
 > [!note] Kézi lista; `.base` nézet a `type: szereplo` alapján is készíthető.

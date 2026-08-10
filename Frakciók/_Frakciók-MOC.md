@@ -14,6 +14,9 @@ tags: [codex, moc, frakcio]
 - [[Carvis Ház]] — a Birodalom talán legerősebb Nagy Háza
 - [[Noras Nagy Ház]] — a Carvis ősi ellenfele, Salagas hercege vezeti
 
+## Dinasztiák
+- [[Shrîl-Ashra Dinasztia]] — az írott történelem hajnalának abrýssi uralkodóháza
+
 ## Harciskolák
 - Shagîri Harciskola (Morte Silmoris Shagîrra) …
 - Fekete Rózsa, Kardnemes, Mestergyilkos rendek …

@@ -32,16 +32,20 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 | 2026-08-10 | L2056–L2081 | MIRACLEA | [[Miraclea]] | menhirek/mágiakioltás; Menhîr, uralkodó |
 | 2026-08-10 | L2083–L2100 | GORAGAR (gorg) | [[Goragar]], [[gorg]] (bővítve), [[Dotar]] | teljes gorg történelem + biológia |
 | 2026-08-10 | L2102–L2104 | NADÎR KIRÁLYSÁG | [[Nadîr Királyság]] (bővítve), [[nador]] (bővítve) | eredettörténet, VI. Napcsászár |
+| 2026-08-10 | L1425–L1445 | A Shinwa harmónia | [[Shinwa harmónia]], [[Shrîl-Ashra Dinasztia]] | tanítás, hét harmónia, panteon, történet; [[Zorawa Miszticizmus]] eredete frissítve |
+| 2026-08-10 | L2009 | Abrýssi szokások | [[Abrýssi szokások]] (kultúra) | |
+| 2026-08-10 | L2052, L2079, L2100 | Uralkodók | [[Sánta Othar]], [[Miraclis Narquor Artis]], [[Morgar Daron-Doar]] | szereplő-jegyzetek |
 
 ## Következő feldolgozandó szakaszok (javaslat)
 
 - [x] ~~L1813–L1873 — Nadîr, az Ős-Szellem~~ ✓
 - [x] ~~L2011–L2135 — Rangok, Nemesi Házak, NAISUR/MIRACLEA/GORAGAR/NADÎR KIRÁLYSÁG~~ ✓
-- [ ] L2007–L2010 — Abrýssi szokások → [[Abrýssi szokások]] (kultúra)
+- [x] ~~L2007–L2010 — Abrýssi szokások~~ ✓
+- [x] ~~L1425–L1445 — A Shinwa harmónia (tanítás, történet)~~ ✓
 - [ ] L2135-től — további „Hatalmasságok" / országok (Abýrnoss, Arcantis, Sýtis, Shagîr, Ardúnia, Quâboa, Xsît, Vutâs-Votar)
-- [ ] L1416 körül — Abrýss istenei → Vallások
-- [ ] L1443–L1509 — Shinwa vallásgyakorlat, misztikus képességek → [[Shinwa harmónia]]
-- [ ] Szereplő-jegyzetek: Sánta Othar, Miraclis Narquor Artis, Morgar Daron-Doar, Napcsászár
+- [ ] L1416 körül — Abrýss istenei → Vallások (a shinwa panteon istennevei)
+- [ ] L1445-től — Shinwa kilenc szent művészet + vallásgyakorlat részletei
+- [ ] Napcsászár (szereplő) + a titoknokok (frakció) önálló jegyzete
 - [ ] Régiók: Shagîr, Ardúnia, Quâboa, Sýtis, Xsît, Abýrnoss, Salagas Hercegség
 - [ ] „Világ Könyve" pending nevei (Glosszárium): Yorsenar, Meldoa, Terra ni Mare, Úti Királyság…
 - [ ] Harciskolák (könyv vége) — lore-utalásokért is átnézni

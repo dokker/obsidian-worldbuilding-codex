@@ -7,7 +7,7 @@ tags: [codex, moc, vallas, magia]
 
 ## Vallások
 - [[Zorawa Miszticizmus]] — a Birodalom államvallása, a titkos tudás útja
-- Shinwa harmónia
+- [[Shinwa harmónia]] — Napkelet legősibb vallása, az összhang útja
 - [[Nadîr, az Ős-Szellem]] — a nador kultusz
 - [[Dotar]] — a gorgok harcos-istene
 - Dún vallás

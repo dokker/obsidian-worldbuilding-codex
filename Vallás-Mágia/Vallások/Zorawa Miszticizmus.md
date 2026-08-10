@@ -35,6 +35,14 @@ gondozott és elhagyott világok, idő-szülte világok (ahol az idő a legfőbb
 [[Nadýss]]), és a legsötétebbek, a **démonok** uralta világok — a démonok a nemlét
 megtestesülései.
 
+## Eredet
+
+A Zorawa a **[[Shinwa harmónia|shinwa]] és a [[Dún Birodalom|dún]] vallás tanításainak
+összegzéséből** született. Szinte teljesen megőrizte a shinwa tanításait, de számos
+oldalról kiegészítette: a Világegyetemet szétbontja és megmagyarázza, a harmóniát nem
+összhangnak, hanem **uralomnak** tekinti, és nagyobb szerepet ad az isteneknek. Épp a
+Zorawa szorította végleg háttérbe a shinwát, az Első Napcsászár korára.
+
 ## Gyakorlat, rendek, szent helyek
 
 - A **titoknokok** a Zorawa rendek nagymesterei; a Napcsászár akaratának szolgái, s
@@ -45,8 +53,8 @@ megtestesülései.
 
 ## Nyitott kérdések / OCR-bizonytalanságok
 
-- A „Shinwa harmónia" és a Zorawa viszonya tisztázandó.
-- Az istenek konkrét neveihez lásd: „Abrýss istenei" (L1416 körül).
+- Az istenek konkrét neveihez lásd: „Abrýss istenei" (L1416 körül) és a
+  [[Shinwa harmónia|shinwa panteon]].
 
 ## Források
 - `full_codex.md#L1876-L1880` (Zorawa teremtéstörténet)

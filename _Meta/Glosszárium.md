@@ -70,6 +70,14 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Dún Birodalom (Dún vallás) | frakcio/vallas | elsöpörte a Napnyugati Démonikus Császárságot; Terra ni Mare központtal |
 | kevert lények | leny | az Óidők mágusai által alkotott torz fenevadak |
 | elveszett városok | helyszin | az Óidők építményei; „senki sem akarja megtalálni" |
+| Shinwa harmónia | vallas | Napkelet legősibb vallása; hét harmónia; sokezer isten |
+| morâd | fogalom/lény | a shinwa legkisebb, önmagukban tökéletes istenei; vö. Óidők „morâdok" (ellenőrzendő azonosság) |
+| shin-quor | tárgy/forma | a shinwában a „forma tökélyét" megtestesítő tárgy |
+| Shrîl-Ashra Dinasztia | frakcio | ősi abrýssi uralkodóház (shinwa hivatalos vallás); jelenkori „Shrîl-Ashra seregek" |
+| shinwa panteon (fő istenek) | isten | Darkor, Gorothas, Mortar, Nascor, Fator, Narsis, Krîris, Medeis, Miseris, Metha, Zora, Ambior |
+| Sánta Othar / Miraclis Narquor Artis / Morgar Daron-Doar | szereplő | Naisur / Miraclea / Goragar uralkodói |
+| abrîn | nyelv | az általános abrýssi köznyelv, amit a kolostorokban tanulnak |
+| ezüstveder | mágia/tárgy | csatornázást pótló hétköznapi zorawa mágia |
 
 ### Feldolgozásra váró nevek (a „Világ Könyve" + régiók)
 

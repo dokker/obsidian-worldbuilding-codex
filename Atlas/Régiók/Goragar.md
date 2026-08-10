@@ -19,7 +19,7 @@ birodalom: Abrýss Birodalom
 
 ## Áttekintés
 
-Goragart „a jég harapta ki" a [[Sárkánygerinc Hegység|Sárkánygerincből". Örök jégmezők,
+Goragart „a jég harapta ki" a [[Sárkánygerinc Hegység|Sárkánygerincből]]. Örök jégmezők,
 magányos fenyők, sziklavölgyek rejtekében sötét épületmonstrumok — a szigetet nem
 emberek, hanem a **[[gorg]]** nép lakja. Télen a gorgok a befagyott óceán jegén kelnek
 át a kontinensre.
