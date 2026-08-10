@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Tradyss Ház.md",
+                "file": "Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,11 +180,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "world-builder:World Builder": false
     }
   },
   "active": "c8a92139fc8046cf",
   "lastOpenFiles": [
+    "Tradyss.md",
+    "Untitled.base",
     "Factions/Tradyss Ház.md",
     "Factions"
   ]
