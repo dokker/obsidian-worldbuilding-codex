@@ -1,0 +1,9 @@
+{
+  "remoteURL": "git@github.com:dokker/obsidian-worldbuilding-codex.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ERROR",
+  "showSyncSuccessNotice": true
+}
