@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Meta/Ingest-napló.md",
-                "mode": "source",
+                "file": "Atlas/Kontinensek/Abrýss.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ingest-napló"
+              "title": "Abrýss"
             }
           }
         ]
@@ -189,6 +189,7 @@
   },
   "active": "82f2eac28c56d3f3",
   "lastOpenFiles": [
+    "_Meta/Ingest-napló.md",
     "_Meta/Ingest-napló.md.tmp.75589.afd441fcf543",
     "_Meta/Glosszárium.md.tmp.75589.9853438e63e5",
     "Fogalmak/_Fogalmak-MOC.md.tmp.75589.8e088536851b",
@@ -202,7 +203,6 @@
     "Fogalmak/Kanton.md",
     "Fogalmak/Kanton.md.tmp.75589.a8f516bd0d21",
     "_Meta/Ingest-napló.md.tmp.75589.e7aa7709029b",
-    "Frakciók/_Frakciók-MOC.md.tmp.75589.f7c3043f25ff",
     "Történelem/Események/Ardún vallásháború.md",
     "Történelem/Események/Jégsír.md",
     "Fogalmak/Árnyékháború.md",
