@@ -92,6 +92,19 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 > (nagy blokk):** mágikus tradíciók/történelem (Agartha, korszakok), varázslóiskolák,
 > a Shin Császári Rendje, Sötét Rendek, Ardún Liturgia — lásd a lenti javaslatlistát.
 
+| Dátum | Forrás sortartomány | Szakasz | Létrehozott/frissített jegyzetek | Megjegyzés |
+|---|---|---|---|---|
+| 2026-08-13 | grimoire.md#L431-L445 | A mágia mitikus bölcsője | [[Agartha]] (új) | Istenek Városa; Tri-gan-Dor, Duen |
+| 2026-08-13 | grimoire.md#L505-L557 | A mágiahasználat két alapiskolája | [[Külső és Belső Erők]] (új) | Külső/Belső; tradíció-megoszlás; a Hegy allegóriája |
+| 2026-08-13 | grimoire.md#L565-L581 | A szándék szerinti mágia | [[Fehérmágus]] (új) | fehér/fekete/szürke; Adeptus; sötét terhek |
+| 2026-08-13 | grimoire.md#L583-L585 | A mágikus rendek osztályozása | [[Varázslóiskolák]] (új) | nagy/rendi/renegát/világi/sötét szekták |
+| 2026-08-13 | grimoire.md#L447-L483 | A mágia mélytörténete | [[Óidők]] (bővítve) | Sötétség/Pusztulás Kora; 4 Démonikus Császárság; Napkelet Koronája; Aitor Ni-lies |
+| 2026-08-13 | grimoire.md#L453-L503 | Az ereklyék korszakai | [[Démonikus ereklye]] (bővítve) | korszakonkénti ereklye-tipológia; 13 fegyverőrző |
+| 2026-08-13 | grimoire.md#L477 | Fogalmi elhatárolás | [[Negyedik Démonikus Birodalom]] (frissítve) | ≠ az Új-birodalom Napkeleti Császársága |
+
+> **A grimoire 2. felének mágiaelmélet + mágiatörténet rétege kész.** Hátra a
+> **mágikus intézmények** (l. lent).
+
 ## Következő feldolgozandó szakaszok (javaslat)
 
 - [x] ~~L1813–L1873 — Nadîr, az Ős-Szellem~~ ✓
@@ -128,9 +141,11 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 - [x] ~~Szellemek csoportosítása (Égbolton Túli / szellemerők / szellemlények), Trigani Körök~~ ✓
 - [x] ~~Ventorok, morâdok/angyalok, istenségek és arkangyalok~~ ✓ (Evokáció/Theurgia: [[Szellemtan]]ba foglalva)
 - [x] ~~Demonológia: a Lét Törvényei, démonok szintjei/osztályai (megszállott→démonherceg)~~ ✓
-- [ ] Mágikus tradíciók és a történelmi visszatekintés (Agartha, korszakok) — egyeztetni a meglévő korszakokkal
-- [ ] Belső/Külső Erők, varázslóiskolák (Északi, Északnyugati, Délnyugati, Délkeleti), Császári Nagyiskola
-- [ ] Mîthis kolostorváros (bővítés), a Shin Császári Rendje, Sötét Rendek (Fekete Tűz, Gorothas-szekta)
+- [x] ~~Mágikus tradíciók és a történelmi visszatekintés (Agartha, korszakok)~~ ✓ (Óidők bővítve, Agartha új)
+- [x] ~~Belső/Külső Erők~~ ✓; [ ] varázslóiskolák **egyenként** (Északi, Északnyugati, Délnyugati, Délkeleti), Császári Nagyiskola
+- [ ] Zorawa kolostor felépítése (grimoire.md#L591+), Mîthis kolostorváros (bővítés)
+- [ ] A Shin Császári Rendje (Kristálypalota, Irgalom Szíve, Egyensúly Bástyája, Türelem Tükre, Gîl-Hadul)
+- [ ] Sötét Rendek (Fekete Tűz, Gorothas-szekta)
 - [ ] Ardún Liturgia (Conflatura, Praesidium, Koldusok/Confessiánusok Rendje)
 - [ ] Külön al-Arkánumok, ha kell: Evokáció, Nekromancia, Theurgia/Goécia, Liturgia (most [[Szellemtan]] alatt)
-- [ ] „Agartha, az Istenek Városa" (grimoire.md#L431) — helyszín/korszak-jegyzet
+- [x] ~~„Agartha, az Istenek Városa" (grimoire.md#L431)~~ ✓

@@ -4,9 +4,9 @@ aliases: [Óidők, Az Óidők]
 tags: [codex, tortenelem/oidok]
 status: vazlat
 kanon: bizonytalan
-forras: ["full_codex.md#L1894-L1902", "full_codex.md#L1869-L1870"]
+forras: ["full_codex.md#L1894-L1902", "full_codex.md#L1869-L1870", "grimoire.md#L447-L483"]
 ocr_bizonytalan: true
-kapcsolodo: ["[[Nadýss]]", "[[Abrýss]]", "[[Sápadt Vándor]]", "[[Dún Birodalom]]"]
+kapcsolodo: ["[[Nadýss]]", "[[Abrýss]]", "[[Sápadt Vándor]]", "[[Dún Birodalom]]", "[[Agartha]]", "[[Démon]]", "[[Démonikus ereklye]]", "[[Fehérmágus]]", "[[Halott világok]]"]
 kezdet: "az emberi történelem előtt"
 veg: "a démonikus birodalmak pusztulása"
 ---
@@ -36,6 +36,35 @@ birodalmat emeltek Nadýsson:
    világokra. Négy császár osztotta fel: Északi, Déli, Napkeleti, Napnyugati Démonikus
    Császárság. A Délinek nyoma veszett, a Napkeleti széthullott, a Napnyugatit a **Dún
    vallás** számolta fel.
+
+## A mágia mélytörténete (a Grimoár szerint)
+
+A mágikus tradíciók a fentinél tagoltabb, „ős-legendákba" vesző korszaksort őriznek. Az
+**[[Agartha|Agartha]]-mítosz** hívei szerint az Óidők mágusai onnan „lopták" tudásukat
+(„a sötét út köveit"). A VII. Napcsászár korabeli **Aitor Ni-lies** betiltott elmélete
+szerint épp ők teremtették **az első [[Démon|démonokat]]** (feketeadeptusokként „legyőzték"
+az isteneket — lásd [[Fehérmágus]]); hatalmuk túlnőtt rajtuk, s démonná, Káosszá lett.
+A teljes sor:
+
+1. **Az Uralkodók Kora = az Óidők / Ó-birodalom** — a mágusok démonokat teremtettek és
+   uraltak, majd saját kreatúráik kezdték ki a lelküket.
+2. **A Sötétség Kora** — az Ó-birodalom pusztulása utáni évezredek: a Teremtés eltaszította
+   az Embert; nem voltak istenek, vallások, segítség. A Nîtor körüli időörvényt démonok
+   uralták. Nyoma ma már csak a **[[Halott világok]]**on lelhető (a **Kárhozat** aurája).
+3. **A Hatalmasok Kora = a Közép-birodalom** — az Ember újra emlékezett a démonnevekre,
+   parancsszavakra; démonok siettek segítségére, majd megkérték az árát. A „kettősség",
+   a féken tartott Káosz kora; innen ered a **kevert lények** többsége.
+4. **A Pusztulás Kora** — a pusztító kis istenek visszatérése; **[[Nadýss]]** bolygószelleme
+   fellázadt zsarnokai ellen. Emléke a gorg **[[Dotar]]**-kultuszban a legtisztább; ide
+   köthető a **tizenhárom ősi fegyverőrző** (Nascor misztériuma, a shagîri harcművészetek
+   alapja).
+5. **Az Alattvalók Kora = az Új-birodalom** — a négy **Démonikus Császárság** (Északi, Déli,
+   Napnyugati, Napkeleti); az elsőt hármukat egy-egy ősi **[[Démonikus ereklye|ereklye]]**
+   tartotta hatalmában. A **Napkeleti** császár azonban felülkerekedett a magáén: legyőzte,
+   és császári koronaként újrakovácsoltatta — ez a **Napkelet Koronája**, ma a Napudvar
+   ereklyetartójában (ő az abrýssi emberek elődje).
+6. **A Végtelen Csaták Kora** → **Napcsászárok Kora** — a teremtő istenek és a mai emberi
+   tradíciók (Shinwa, Dún, [[Zorawa Miszticizmus|Zorawa]]) felemelkedése (lásd az idővonalat).
 
 ## A Nîtor és a hagyaték
 
@@ -68,3 +97,5 @@ ezt nevezik a rejtett **[[Negyedik Démonikus Birodalom|Negyedik Démonikus Biro
 - `full_codex.md#L1894-L1902` (Történelem — Az Óidők)
 - `full_codex.md#L1869-L1870` (Világ Könyve: Nîtor mint kapu, kevert lények, elveszett
   városok, halott világok, a Napkeleti Császárság elődsége)
+- `grimoire.md#L447-L483` (a mágia mélytörténete: az Óidőktől a Végtelen Csaták Koráig;
+  Agartha, Aitor Ni-lies elmélete, a Napkelet Koronája, az ereklye-korszakok)

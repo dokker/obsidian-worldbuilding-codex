@@ -36,5 +36,11 @@ bölcsek meglátása szerint ezek együtt egyfajta **Negyedik Démonikus Birodal
 > „Birodalom" itt inkább metafora egy szétszórt kultusz-hálózatra, mint szervezett
 > államra. `kanon: bizonytalan`.
 
+> [!note] Fogalmi elhatárolás
+> Ne keverendő az **[[Óidők]] Új-birodalmának** négy ősi **Démonikus Császárságával**
+> (Északi, Déli, Napnyugati, **Napkeleti**). A grimoire szerint épp a Napkeleti császár
+> kerekedett felül saját ereklyéjén, s abból kovácsolta a **Napkelet Koronáját** — ez
+> egy hajdani állam, nem a jelenkori rejtett kultusz-hálózat.
+
 ## Források
 - `full_codex.md#L1418-L1419` (misztérium-kultuszok; a Negyedik Démonikus Birodalom)

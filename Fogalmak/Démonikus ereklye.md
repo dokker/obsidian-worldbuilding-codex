@@ -4,9 +4,9 @@ aliases: [démonikus ereklye, démoni ereklye, démonikus ereklyék]
 tags: [codex, fogalom, demoni]
 status: vazlat
 kanon: biztos
-forras: ["grimoire.md#L395-L397", "grimoire.md#L385"]
+forras: ["grimoire.md#L395-L397", "grimoire.md#L385", "grimoire.md#L453-L503"]
 ocr_bizonytalan: false
-kapcsolodo: ["[[Démon]]", "[[Demonológia]]", "[[Óidők]]", "[[Negyedik Démonikus Birodalom]]"]
+kapcsolodo: ["[[Démon]]", "[[Demonológia]]", "[[Óidők]]", "[[Halott világok]]", "[[Negyedik Démonikus Birodalom]]"]
 kategoria: mágikus tárgy / démoni maradvány
 ---
 
@@ -33,6 +33,25 @@ közvetett bizonyítékul a démonhercegek létére. A [[Nadîr Királyság]]ban
 ilyen: egy „jég fogságából szabadult démonikus ereklye" nyomát a Shîror szellemének
 sámánjai fedezték fel (lásd [[Shîror]]).
 
+## Az ereklyék korszakonként
+
+A mágiatörténet minden korszaka (lásd [[Óidők]]) más jellegű ereklyét hagyott hátra:
+
+- **Ó-birodalom** — feneketlenül sötét, kaotikus; a Zorawa is csak négyet ismerhet meg
+  (a Császári Nagyiskola négy fő rendháza őrzi őket). Emberi elmét, teret-időt roppant.
+- **Sötétség Kora** — Nadýsson már nem lelhető; csak a **[[Halott világok]]** őrzik. A
+  **Kárhozat** aurája: pusztításuk „nem csak egyetlen, evilági életre szól".
+- **Közép-birodalom** — kettősség és tévedés jellemzi; a **kevert lények** kora; sok
+  ereklye „szolgálja" az embert — de a szolgálatnak mindig ára van.
+- **Pusztulás Kora** — a démonok elleni harc legjobb fegyverei; romboló, pusztító ereklyék.
+  Ide tartozik a **tizenhárom ősi fegyverőrző** (Nascor misztériuma; a shagîri
+  harcművészetek alapja).
+- **Új-birodalom (Alattvalók Kora)** — számos ereklye; a mai démonidéző tradíciók emléke.
+- **Végtelen Csaták Kora** — háromféle: dún vallási ereklyék, lélekkovácsolt shinwa tárgyak,
+  és a legveszedelmesebbek: az abrýssi **Ashranok** vérrel áztatott démoni bálványai/fétisei.
+- **Napcsászárok Kora** — a leggyakoribbak; többségük **varázstárgy** (Zorawa/Shinwa/Ardún),
+  gyakran épp a régi, sötét korok relikviáinak kisugárzását fojtják el a kolostorokban.
+
 ## Kapcsolatok
 
 - [[Démon]] — a démonhercegek és a szolgadémon-teremtés fogalma.
@@ -46,3 +65,4 @@ sámánjai fedezték fel (lásd [[Shîror]]).
 ## Források
 - `grimoire.md#L395-L397` (a démonikus ereklyék természete, lélekkovácsolás)
 - `grimoire.md#L385` (az ereklyék mint a démonhercegek bizonyítékai)
+- `grimoire.md#L453-L503` (az ereklyék korszakonkénti jellemzése)

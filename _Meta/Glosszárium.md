@@ -211,6 +211,22 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | szolgadémon / démonszobrászat | lény/mágia | mágiával teremtett pusztító Mana; tiltott démonalkotás |
 | démonherceg | lény | démonúr, akinek lelke van (Halhatatlanok Síkja); az Óidők mágusai? |
 | Démonikus ereklye | tárgy | démonúr-erejű tárgy; démonherceg lelkének lenyomata (lélekkovácsolás) |
+| Agartha | fogalom/hely | az Istenek/Beavatottak Városa; a mágia mitikus bölcsője |
+| Tri-gan-Dor | hely | az utolsó Agartha, ahol a Zorawa tradíció született |
+| Duen | hely | a dún mágia Agarthája a hegyek közt (ma is létezik) |
+| Külső Erők Iskolája | magia | a mágia „külső", a világot okain át uraló alapiskolája (Dún, Zorawa) |
+| Belső Erők Útja | magia | a mágia „belső", befelé forduló alapiskolája (Shinwa, Zorawa) |
+| Fehérmágus / Adeptus | fogalom/lény | üdvözülését feláldozó, morâddá/szentté váló mágus |
+| feketemágus / szürke mágus | fogalom | a mágia szándék szerinti besorolása; szürke = minden abrýssi mágus |
+| sötét terhek | fogalom | a feketemágia visszahatása; pecsétek az Aurán és a Sorson |
+| Sötétség Kora / Pusztulás Kora | korszak | a mágia mélytörténetének köztes ős-korszakai |
+| Hatalmasok Kora (Közép-birodalom) / Alattvalók Kora (Új-birodalom) | korszak | a démoni birodalmak grimoire-beli nevei |
+| négy Démonikus Császárság | frakcio/korszak | az Új-birodalom: Északi, Déli, Napnyugati, Napkeleti |
+| Napkelet Koronája | tárgy | a Napkeleti császár legyőzött ereklyéjéből kovácsolt korona (Napudvar) |
+| tizenhárom ősi fegyverőrző | lény | Nascor misztériuma; a shagîri harcművészetek alapja |
+| Aitor Ni-lies | szereplő | VII. Napcsászár-kori nagymester; betiltott elmélet (az Óidők mágusai teremtették a démonokat) |
+| Varázslóiskolák (nagy/rendi/renegát/világi/sötét) | fogalom | a mágikus rendek fehér–szürke–fekete osztályozása |
+| Ashranok bálványai | tárgy | vérrel áztatott abrýssi démoni fétisek (Végtelen Csaták Kora) |
 
 > **Nadîr** = Nadýss bolygószelleme (a Szószedet kimondja) — lásd [[Bolygószellem]].
 
