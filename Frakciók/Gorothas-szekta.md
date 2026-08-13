@@ -6,7 +6,7 @@ status: vazlat
 kanon: biztos
 forras: ["grimoire.md#L1005-L1013"]
 ocr_bizonytalan: false
-kapcsolodo: ["[[Shinwa harmónia]]", "[[Zorawa Miszticizmus]]", "[[Salagas Hercegség]]", "[[Fehérmágus]]", "[[Varázslóiskolák]]"]
+kapcsolodo: ["[[Gorothas]]", "[[Shinwa harmónia]]", "[[Zorawa Miszticizmus]]", "[[Salagas Hercegség]]", "[[Fehérmágus]]", "[[Varázslóiskolák]]"]
 tipus: sötét kultusz / feketemágus szekták
 szekhely: "10–15 szétszórt szekta; Shadmon Hercegség (Szabad Hercegségek)"
 vezeto: "Krîsis ainas-Shadmon főpap"
@@ -43,14 +43,13 @@ legnagyobb hatalmú varázstudója.
 
 ## Kapcsolatok
 
-- **Gorothas** — a [[Shinwa harmónia|shinwa]] panteon egyik istene (kultuszként itt sötét
-  irányba fordul; vö. a Pusztulás Kora [[Óidők|mélytörténeti]] öröksége).
+- **[[Gorothas]]** — a [[Shinwa harmónia|shinwa]] panteon egyik istene (kultuszként itt
+  sötét irányba fordul; vö. a Pusztulás Kora [[Óidők|mélytörténeti]] öröksége).
 - [[Varázslóiskolák]] — a Gorothas-szekta a „sötét szekta" (feketemágus) kategória példája.
 - [[Salagas Hercegség]] / Szabad Hercegségek — a főpap hatalmi bázisa (Shadmon Hercegség).
 
 ## Nyitott kérdések / OCR-bizonytalanságok
 
-- **Gorothas** önálló isten-jegyzete (a shinwa panteonból) kidolgozandó.
 - **Shadmon Hercegség** viszonya a többi Szabad Hercegséghez / [[Salagas Hercegség]]hez.
 
 ## Források

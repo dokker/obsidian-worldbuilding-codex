@@ -6,7 +6,7 @@ status: vazlat
 kanon: biztos
 forras: ["grimoire.md#L1077-L1087"]
 ocr_bizonytalan: false
-kapcsolodo: ["[[Ardún Liturgia]]", "[[Ardúnia]]", "[[Conflatura]]", "[[Fehérmágus]]", "[[Démon]]", "[[Varázslóiskolák]]"]
+kapcsolodo: ["[[Ardún Liturgia]]", "[[Ardúnia]]", "[[Ösorom]]", "[[Conflatura]]", "[[Fehérmágus]]", "[[Démon]]", "[[Varázslóiskolák]]"]
 tipus: ardún lovagrend (a Titkos Tudás birtokosa)
 szekhely: "Ösorom (Eluvies Hercegség) — szellemi központ; 15 rendház"
 vezeto: "a Felvigyázó Nagymester"
@@ -31,7 +31,7 @@ nagyobb városokban, **~háromszáz lovag**.
   beavatottak, „egy-egy Angyal kegyeltjei".
 - **Beavatott Lovagok** — kb. minden tizedik lovag; **varázstudók**, de páncélt és kardot
   is viselnek. Beavatásuk a rend szellemi központjában, az **Eluvies Hercegségbeli
-  Ösoromban** történik.
+  [[Ösorom]]ban** történik.
 - **Kardlovagok** — a legalacsonyabb rang; felesküdtek, sok tudást kapnak, de a beavatás
   csak haláluk pillanatában (jelképesen) illeti meg őket.
 - **Apródok, katonák, szolgák** — nem tagok, csak szolgálók; az angyali tudás közelébe sem
@@ -55,7 +55,7 @@ egyszerre fegyver és szent jelkép.
 
 ## Nyitott kérdések / OCR-bizonytalanságok
 
-- **Ösorom** (Eluvies Hercegség) mint a rend szentélye — önálló helyszín-jegyzetet érhet.
+- **[[Ösorom]]** (Eluvies Hercegség) belső felépítése, fekvése — a forrás alig részletezi.
 
 ## Források
 - `grimoire.md#L1077-L1087` (az Oltalmazók Rendje: hierarchia, tanítás, kard és páncél)

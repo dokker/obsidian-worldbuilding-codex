@@ -8,7 +8,7 @@ forras: ["grimoire.md#L1039-L1061", "grimoire.md#L1089-L1131"]
 ocr_bizonytalan: false
 forras_tipus: isteni
 iskola: "Ardún Liturgia (a Külső Erők legősibb ismert tradíciója)"
-kapcsolodo: ["[[Dún vallás]]", "[[Külső és Belső Erők]]", "[[Ardúnia]]", "[[Conflatura]]", "[[Praesidium]]", "[[Apologeta]]", "[[Szellemtan]]", "[[Fehérmágus]]"]
+kapcsolodo: ["[[Dún vallás]]", "[[Külső és Belső Erők]]", "[[Ardúnia]]", "[[Conflatura]]", "[[Praesidium]]", "[[Koldusok Rendje]]", "[[Confessiánusok]]", "[[Apologeta]]", "[[Szellemtan]]", "[[Fehérmágus]]"]
 ---
 
 # Ardún Liturgia
@@ -43,12 +43,12 @@ Az Ardún Liturgiát több rend őrzi és gyakorolja:
   **Angyali Tudomány** összegyűjtője; hat (vagy titkon hét) Collegiuma egy-egy Szférát őriz.
 - **[[Praesidium|Praesidium (Oltalmazók Rendje)]]** — ősi lovagrend, amely a **Titkos
   Tudást** is birtokolja; a Titkok és az emberiség oltalmazója.
-- **Koldusok Rendje** — hétszáz éve **Palustria provintise** alapította; minden világi
+- **[[Koldusok Rendje]]** — hétszáz éve **Palustria provintise** alapította; minden világi
   hatalmat és vagyont elutasít (a Palustriai Szent koldusgúnyája). ~50 rendház, ~50 ezer tag;
   a belső kör a **Beavatott Testvérek** (~50 fő). Titkos tanításait **nem** a Patriarka
   egyházától, hanem — hazaárulás vádját is elviselve — egyenesen **Duenből** (Napnyugat)
   kapja; a **[[Dún vallás|ni marei]]** Ecclesiával is kapcsolatban áll.
-- **Confessiánusok (Confessiatus)** — a Dún idők óta bujkáló, **legősibb** szekta; az
+- **[[Confessiánusok]] (Confessiatus)** — a Dún idők óta bujkáló, **legősibb** szekta; az
   eredeti **Dún Religio** őrzője (szent könyve a *Doctrina*, állítólag egyetlen példány). A
   **cselekvő** (nem szemlélő) mágiahasználat híve; beavatottja **kettős személyiség**
   (álarc). Történelmi gyökere a **Confessiatus** állam, amelyet a **Catellániai Hercegség**
@@ -62,9 +62,7 @@ Az Ardún Liturgiát több rend őrzi és gyakorolja:
 
 ## Nyitott kérdések / OCR-bizonytalanságok
 
-- A **Koldusok Rendje** és a **Confessiánusok** önálló jegyzetet érdemelhet (itt egyelőre
-  szakaszként).
-- A Confessiatus-háború (i.e. 359) beillesztése a birodalmi idővonalba.
+- A Confessiatus-háború (i.e. 359) beillesztése a birodalmi idővonalba (lásd [[Confessiánusok]]).
 
 ## Források
 - `grimoire.md#L1039-L1061` (az Ardún Liturgia, világkép, Szférák)

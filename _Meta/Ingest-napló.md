@@ -116,8 +116,14 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 | 2026-08-13 | grimoire.md#L1039-L1131 | A Külső Erők ősi tradíciója | [[Ardún Liturgia]] (új), [[Conflatura]] (új), [[Praesidium]] (új) | Szférák; Koldusok Rendje + Confessiánusok (szakaszként) |
 
 > **A `grimoire.md` teljesen feldolgozva** (Szellemtan, Demonológia, mágiaelmélet/
-> -történet, és a mágikus intézmények). Kisebb feltáratlan morzsák: Koldusok Rendje és
-> Confessiánusok önálló jegyzete; Gorothas mint shinwa isten; Ösorom (Eluvies) helyszín.
+> -történet, és a mágikus intézmények).
+
+| Dátum | Forrás sortartomány | Szakasz | Létrehozott/frissített jegyzetek | Megjegyzés |
+|---|---|---|---|---|
+| 2026-08-13 | grimoire.md#L1089-L1131, L471, L1081 | grimoire-morzsák | [[Koldusok Rendje]] (új), [[Confessiánusok]] (új), [[Gorothas]] (új), [[Ösorom]] (új, csonk) | önállósítva az Ardún Liturgiából; Confessiatus i.e.359; keresztlinkek pótolva |
+
+> **A grimoire-morzsák is bevíve.** A `grimoire.md` ezzel teljesen le van fedve; a
+> Confessiatus (i.e.359) idővonalba illesztése maradt nyitva.
 
 ## Következő feldolgozandó szakaszok (javaslat)
 

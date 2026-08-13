@@ -6,7 +6,7 @@ status: vazlat
 kanon: biztos
 forras: ["grimoire.md#L1063-L1075"]
 ocr_bizonytalan: false
-kapcsolodo: ["[[Ardún Liturgia]]", "[[Ardúnia]]", "[[Apologeta]]", "[[Dún vallás]]", "[[Praesidium]]", "[[Szellemtan]]"]
+kapcsolodo: ["[[Ardún Liturgia]]", "[[Ardúnia]]", "[[Apologeta]]", "[[Dún vallás]]", "[[Praesidium]]", "[[Confessiánusok]]", "[[Szellemtan]]"]
 tipus: az Ardún Egyház titkos belső köre
 szekhely: "[[Ardúnia]] (a Patriarka mellett; állandó rendház nélkül)"
 vezeto: "a Patriarka; a tényleges irányítás a Magisteriumé (7 fő)"
@@ -55,8 +55,8 @@ mégis egy Collegium tagja.
 
 - [[Ardún Liturgia]] — a tradíció, amelynek Conflatura a szellemi magva.
 - [[Praesidium]] — a másik nagy ardún, mágiát is birtokló rend.
-- Elvesztette az egyik legősibb ardún iskola, a **Confessiatus** (lásd [[Ardún Liturgia]])
-  bizalmát.
+- A Conflatura mint irányzat épp a **[[Confessiánusok|Confessiatus]]** i.e. 359-es
+  bukásakor született; a rend később elvesztette a Confessiatus bizalmát.
 
 ## Nyitott kérdések / OCR-bizonytalanságok
 

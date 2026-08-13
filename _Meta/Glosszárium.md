@@ -244,6 +244,12 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Confessiánusok (Confessiatus) | frakcio | ősi, bujkáló dún szekta; a Confessiatus államot Catella győzte le i.e.359-ben |
 | Fekete Tűz | frakcio | a Shin Rendjéről leszakadt renegát (VIII. Napcsászár); Doar Il-Anis |
 | Gorothas-szekta | frakcio | Gorothas sötét kultusza (Szánalom Nélküli Kegyetlenség); főpap Krîsis ainas-Shadmon |
+| Gorothas | isten | shinwa panteon istene; a Pusztulás Kora örökségéhez kötött misztérium |
+| Confessiatus | esemeny/hely | az első dún állam Ardúniában; Catella i.e.359-ben legyőzte → az ardún Conflatura születése |
+| Ösorom | helyszin | a Praesidium beavatási/szellemi központja (Eluvies Hercegség, Ardúnia) |
+| Eluvies Hercegség | régió | ardún tartomány (Ösorommal); Hercege a Conflatura előtt is fejet hajt |
+| Palustriai Szent / Palustria provintise | szereplő | a Koldusok Rendje alapítója (700 éve) |
+| Doctrina | tárgy | a Confessiánusok szent könyve (egyetlen példány) |
 
 > **Nadîr** = Nadýss bolygószelleme (a Szószedet kimondja) — lásd [[Bolygószellem]].
 
