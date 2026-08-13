@@ -105,6 +105,20 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 > **A grimoire 2. felének mágiaelmélet + mágiatörténet rétege kész.** Hátra a
 > **mágikus intézmények** (l. lent).
 
+| Dátum | Forrás sortartomány | Szakasz | Létrehozott/frissített jegyzetek | Megjegyzés |
+|---|---|---|---|---|
+| 2026-08-13 | grimoire.md#L645-L779 | Császári Nagyiskola + 4 rendház | [[Császári Nagyiskola]] (új) | pentagramma, elemek, Arkánumok, fulgor/sorsfonás, Abrîn Sárkány |
+| 2026-08-13 | grimoire.md#L593-L613 | Zorawa kolostorváros | [[Mîthis]] (nagy bővítés) | ~50 kolostor, négy kapu, Harmadik Körös beavatás |
+| 2026-08-13 | grimoire.md#L781-L881 | A Belső Erők nagyrendje | [[Shin Császári Rendje]] (új) | a hét Kapu, Kristálypalota, alapítás I.Napcs. III. sz. |
+| 2026-08-13 | grimoire.md#L883-L899 | Elfeledett aszketikus kolostor | [[Gîl-Hadul kolostor]] (új) | Öregek, Idegen Csillagok Kövei, titkos démonikus ereklye |
+| 2026-08-13 | grimoire.md#L935-L957 | Renegát sötét rend | [[Fekete Tűz]] (új) | Shin-renegát; Doar Il-Anis; 3 rendház |
+| 2026-08-13 | grimoire.md#L1005-L1013 | Sötét kultusz | [[Gorothas-szekta]] (új) | Szánalom Nélküli Kegyetlenség; Krîsis ainas-Shadmon |
+| 2026-08-13 | grimoire.md#L1039-L1131 | A Külső Erők ősi tradíciója | [[Ardún Liturgia]] (új), [[Conflatura]] (új), [[Praesidium]] (új) | Szférák; Koldusok Rendje + Confessiánusok (szakaszként) |
+
+> **A `grimoire.md` teljesen feldolgozva** (Szellemtan, Demonológia, mágiaelmélet/
+> -történet, és a mágikus intézmények). Kisebb feltáratlan morzsák: Koldusok Rendje és
+> Confessiánusok önálló jegyzete; Gorothas mint shinwa isten; Ösorom (Eluvies) helyszín.
+
 ## Következő feldolgozandó szakaszok (javaslat)
 
 - [x] ~~L1813–L1873 — Nadîr, az Ős-Szellem~~ ✓
@@ -142,10 +156,11 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 - [x] ~~Ventorok, morâdok/angyalok, istenségek és arkangyalok~~ ✓ (Evokáció/Theurgia: [[Szellemtan]]ba foglalva)
 - [x] ~~Demonológia: a Lét Törvényei, démonok szintjei/osztályai (megszállott→démonherceg)~~ ✓
 - [x] ~~Mágikus tradíciók és a történelmi visszatekintés (Agartha, korszakok)~~ ✓ (Óidők bővítve, Agartha új)
-- [x] ~~Belső/Külső Erők~~ ✓; [ ] varázslóiskolák **egyenként** (Északi, Északnyugati, Délnyugati, Délkeleti), Császári Nagyiskola
-- [ ] Zorawa kolostor felépítése (grimoire.md#L591+), Mîthis kolostorváros (bővítés)
-- [ ] A Shin Császári Rendje (Kristálypalota, Irgalom Szíve, Egyensúly Bástyája, Türelem Tükre, Gîl-Hadul)
-- [ ] Sötét Rendek (Fekete Tűz, Gorothas-szekta)
-- [ ] Ardún Liturgia (Conflatura, Praesidium, Koldusok/Confessiánusok Rendje)
+- [x] ~~Belső/Külső Erők~~ ✓; [x] ~~Császári Nagyiskola + a 4 rendház~~ ✓ (egy jegyzetben)
+- [x] ~~Zorawa kolostor felépítése, Mîthis kolostorváros (bővítés)~~ ✓
+- [x] ~~A Shin Császári Rendje (a hét Kapu, Kristálypalota, Gîl-Hadul)~~ ✓
+- [x] ~~Sötét Rendek (Fekete Tűz, Gorothas-szekta)~~ ✓
+- [x] ~~Ardún Liturgia (Conflatura, Praesidium; Koldusok/Confessiánusok szakaszként)~~ ✓
+- [ ] *(morzsák)* Koldusok Rendje és Confessiánusok önálló jegyzete; Gorothas isten-jegyzet; Ösorom helyszín
 - [ ] Külön al-Arkánumok, ha kell: Evokáció, Nekromancia, Theurgia/Goécia, Liturgia (most [[Szellemtan]] alatt)
 - [x] ~~„Agartha, az Istenek Városa" (grimoire.md#L431)~~ ✓

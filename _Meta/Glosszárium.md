@@ -227,6 +227,23 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Aitor Ni-lies | szereplő | VII. Napcsászár-kori nagymester; betiltott elmélet (az Óidők mágusai teremtették a démonokat) |
 | Varázslóiskolák (nagy/rendi/renegát/világi/sötét) | fogalom | a mágikus rendek fehér–szürke–fekete osztályozása |
 | Ashranok bálványai | tárgy | vérrel áztatott abrýssi démoni fétisek (Végtelen Csaták Kora) |
+| Császári Nagyiskola | frakcio | a Külső Erők zorawa nagyiskolája; 4 rendház az Abrýss-pentagrammán (I.250) |
+| Északi/Északnyugati/Délnyugati/Délkeleti Varázslóiskola | frakcio | a Nagyiskola négy rendháza (Mentál/Asztrál/Tér-Idő/Alkímia-Jel) |
+| fulgor / sorsfonás | magia | zorawa varázslási képzelettechnikák (aranyló Mana-gömb / az Éggel kötő fonalak) |
+| Abrîn Sárkány | jelkép | a négy Nagyiskola-rendház szimbolikája (fej/szív/láb/farok) |
+| Shin Császári Rendje | frakcio | a Belső Erők zorawa nagyrendje; a hét Kapu; Kristálypalota |
+| hét Kapu | fogalom | a Shin Rendje hét beavatása: Irgalom Szíve→Egyensúly→Türelem→Lélek Kútja→Igazak Temploma→Menedék Völgye→Védelem Fala |
+| Kristálypalota | helyszin | a Shin Rendje világi központja Miraclea határán |
+| Gîl-Hadul kolostor | helyszin | a Shin Rendje elfeledett, aszketikus (titkon démonikus) kolostora |
+| Öregek (Gîl-Hadul) | lény | testükből kilépett szellemlény-nagymesterek; Idegen Csillagok Kövei szobrokban |
+| Ardún Liturgia | magia | a Külső Erők legősibb tradíciója (Dún eredet); Szférák; Angyali Tudomány |
+| Szféra | magia | az Arkánumok ardún neve |
+| Conflatura | frakcio | az Ardún Egyház titkos belső köre („árnyház"); Magisterium + Collegiumok |
+| Praesidium (Oltalmazók Rendje) | frakcio | ardún lovagrend a Titkos Tudással; központ: Ösorom (Eluvies) |
+| Koldusok Rendje | frakcio | ardún koldusrend; titkos tanításait Duenből kapja (700 éve, Palustria alapította) |
+| Confessiánusok (Confessiatus) | frakcio | ősi, bujkáló dún szekta; a Confessiatus államot Catella győzte le i.e.359-ben |
+| Fekete Tűz | frakcio | a Shin Rendjéről leszakadt renegát (VIII. Napcsászár); Doar Il-Anis |
+| Gorothas-szekta | frakcio | Gorothas sötét kultusza (Szánalom Nélküli Kegyetlenség); főpap Krîsis ainas-Shadmon |
 
 > **Nadîr** = Nadýss bolygószelleme (a Szószedet kimondja) — lásd [[Bolygószellem]].
 
