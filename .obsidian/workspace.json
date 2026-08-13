@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Kontinensek/Abrýss.md",
-                "mode": "preview",
+                "file": "Vallás-Mágia/Vallások/Nadîr, az Ős-Szellem.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abrýss"
+              "title": "Nadîr, az Ős-Szellem"
             }
           }
         ]
@@ -189,6 +189,19 @@
   },
   "active": "82f2eac28c56d3f3",
   "lastOpenFiles": [
+    "Atlas/Települések/Naoenao.md",
+    "Népek-Kultúrák/Népek/nador.md",
+    "Bestiárium/Szellemlény.md",
+    "Atlas/Helyszínek/Sárkánygerinc Hegység.md",
+    "Történelem/Korszakok/Shrîl-Ashra Birodalom.md",
+    "Népek-Kultúrák/Népek/kharag.md",
+    "Népek-Kultúrák/Népek/ghodi.md",
+    "Atlas/Régiók/Naisur.md",
+    "Naisuri Kagan.md",
+    "Atlas/Régiók/Salagas Hercegség.md",
+    "Frakciók/Noras Nagy Ház.md",
+    "Atlas/_Atlas-MOC.md",
+    "Atlas/Kontinensek/Abrýss.md",
     "_Meta/Ingest-napló.md",
     "_Meta/Ingest-napló.md.tmp.75589.afd441fcf543",
     "_Meta/Glosszárium.md.tmp.75589.9853438e63e5",
@@ -198,7 +211,6 @@
     "Bestiárium/Bolygószellem.md.tmp.75589.45069b9a72b1",
     "Atlas/Feltáratlan földek.md",
     "Atlas/Feltáratlan földek.md.tmp.75589.5a2eed22f2b1",
-    "Atlas/Régiók/Salagas Hercegség.md",
     "Atlas/Régiók/Salagas Hercegség.md.tmp.75589.1e29feac03d0",
     "Fogalmak/Kanton.md",
     "Fogalmak/Kanton.md.tmp.75589.a8f516bd0d21",
@@ -212,18 +224,6 @@
     "Frakciók/Dún Birodalom.md",
     "Fogalmak/Harmadik Szem.md",
     "Vallás-Mágia/Mágia/Mana.md",
-    "Vallás-Mágia/Mágia/Aura.md",
-    "Fogalmak/Halott világok.md",
-    "Fogalmak/Teremtő.md",
-    "Fogalmak/Szellemnyelv.md",
-    "Bestiárium/Szellemlény.md",
-    "Bestiárium/Démon.md",
-    "Bestiárium/morâd.md",
-    "Bestiárium/Bolygószellem.md",
-    "Fogalmak/Hét Sík.md",
-    "Vallás-Mágia/Mágia/Árnyékvilág.md",
-    "Szereplők/Arshan Nagymester.md",
-    "Frakciók/Csorbatorony.md",
-    "Frakciók/Morte Silmoris Ventorra.md"
+    "Vallás-Mágia/Mágia/Aura.md"
   ]
 }
