@@ -74,6 +74,24 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 > (Shizaai, Naikal Inaan, Ioena önálló jegyzete) és a mellékszereplők (Sólyom-vezérek,
 > harcifőnökök, Hadúr Shensaai).
 
+### `grimoire.md` — Szellemtan Arkánuma
+
+| Dátum | Forrás sortartomány | Szakasz | Létrehozott/frissített jegyzetek | Megjegyzés |
+|---|---|---|---|---|
+| 2026-08-13 | grimoire.md#L5-L59 | Szellemtan + a szellemek 3 csoportja | [[Szellemtan]] (új) | Égbolton Túli/Szellemerők/Szellemlények; alászállás; tradíciók |
+| 2026-08-13 | grimoire.md#L99-L105 | A mágia három köre | [[Trigani Körök]] (új) | Első/Második/Harmadik Kör; Őrző-titok |
+| 2026-08-13 | grimoire.md#L81-L85 | Állatszellemek | [[Ventor]] (új) | alakváltó fajszellem-leszületések, embervadász |
+| 2026-08-13 | grimoire.md#L105, L367 | Gondolkodó Mana | [[Órző]] (új) | „jó démon"; Teremtés vs. Pusztítás Misztériuma |
+| 2026-08-13 | grimoire.md#L19, L75 | Nadýss oltalmazói | [[Védelem Fala]] (új) | fehérmágusok/adeptusok; szellemerők |
+| 2026-08-13 | grimoire.md#L19-L21 | Rejtett méltóság | [[Világkirály]] (új, `kanon: bizonytalan`) | a bolygószellem főpapja |
+| 2026-08-13 | grimoire.md#L61-L71 | Istenségek/arkangyalok, morâdok | [[morâd]] (bővítve) | isten-teológia; a megtestesült morâd |
+| 2026-08-13 | grimoire.md#L23-L109 | Szellemlény-ontológia | [[Szellemlény]] (bővítve), [[Természetszellem]] (bővítve) | 40 napos szabály; szellemalak/elementál/inkarnáció; shonin |
+| 2026-08-13 | grimoire.md#L231-L397 | Demonológia + Démontan | [[Démon]] (nagy bővítés), [[Demonológia]] (új), [[Démonikus ereklye]] (új) | A Lét Törvényei; Szint/Osztály; típusok megszállott→démonherceg; a Démon nyitott kérdése lezárva |
+
+> **A grimoire első fele kész** (Szellemtan-kozmológia + Demonológia). **Hátralévő
+> (nagy blokk):** mágikus tradíciók/történelem (Agartha, korszakok), varázslóiskolák,
+> a Shin Császári Rendje, Sötét Rendek, Ardún Liturgia — lásd a lenti javaslatlistát.
+
 ## Következő feldolgozandó szakaszok (javaslat)
 
 - [x] ~~L1813–L1873 — Nadîr, az Ős-Szellem~~ ✓
@@ -106,11 +124,13 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 - [ ] Kilenc Tó Völgye, Nap Útja Hágó, Napmező, Jégmadarak Öble mint helyszínek
 - [ ] A közlekedési útvonalak (Romlás Útja, Lelkek Ösvénye) + a sýtisi karaván-Házak
 
-### `grimoire.md` — Szellemtan Arkánuma (még nem kezdve)
-- [ ] Szellemek csoportosítása (Égbolton Túli / szellemerők / szellemlények), Trigani Körök
-- [ ] Ventorok, morâdok/angyalok, istenségek és arkangyalok; evokáció, theurgia/goécia
-- [ ] Demonológia: a Lét Törvényei, démonok szintjei/osztályai (megszállott→démonherceg)
+### `grimoire.md` — Szellemtan Arkánuma
+- [x] ~~Szellemek csoportosítása (Égbolton Túli / szellemerők / szellemlények), Trigani Körök~~ ✓
+- [x] ~~Ventorok, morâdok/angyalok, istenségek és arkangyalok~~ ✓ (Evokáció/Theurgia: [[Szellemtan]]ba foglalva)
+- [x] ~~Demonológia: a Lét Törvényei, démonok szintjei/osztályai (megszállott→démonherceg)~~ ✓
 - [ ] Mágikus tradíciók és a történelmi visszatekintés (Agartha, korszakok) — egyeztetni a meglévő korszakokkal
 - [ ] Belső/Külső Erők, varázslóiskolák (Északi, Északnyugati, Délnyugati, Délkeleti), Császári Nagyiskola
 - [ ] Mîthis kolostorváros (bővítés), a Shin Császári Rendje, Sötét Rendek (Fekete Tűz, Gorothas-szekta)
 - [ ] Ardún Liturgia (Conflatura, Praesidium, Koldusok/Confessiánusok Rendje)
+- [ ] Külön al-Arkánumok, ha kell: Evokáció, Nekromancia, Theurgia/Goécia, Liturgia (most [[Szellemtan]] alatt)
+- [ ] „Agartha, az Istenek Városa" (grimoire.md#L431) — helyszín/korszak-jegyzet

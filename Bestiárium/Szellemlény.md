@@ -4,9 +4,9 @@ aliases: [szellemlény, szellemlények]
 tags: [codex, bestiarium, szellem]
 status: vazlat
 kanon: biztos
-forras: ["full_codex.md#L1794-L1796"]
+forras: ["full_codex.md#L1794-L1796", "grimoire.md#L23-L25", "grimoire.md#L77-L79", "grimoire.md#L107-L109"]
 ocr_bizonytalan: false
-kapcsolodo: ["[[Hét Sík]]", "[[Szellemnyelv]]", "[[Természetszellem]]", "[[Árnyékvilág]]", "[[Zorawa Miszticizmus]]"]
+kapcsolodo: ["[[Hét Sík]]", "[[Szellemtan]]", "[[Szellemnyelv]]", "[[Természetszellem]]", "[[Árnyékvilág]]", "[[Zorawa Miszticizmus]]"]
 elohely: "az Árnyékvilághoz kötve"
 veszelyesseg: "változó (némelyik testet ölthet)"
 ---
@@ -21,6 +21,23 @@ szellemeket és lelkeket. A „bilincs" természete szerint többféle van:
 - **eltorzult, őrült asztrálba börtönzött, kárhozott lelkek**,
 - rögeszmévé vált **elvek, célok** foglyai,
 - egy rég **értelmét vesztett mágia** által megkötöttek.
+
+A [[Szellemtan]] hármas felosztásában ők a **harmadik csoport** (a törvények
+alárendeltjei): egy-egy Halhatatlan Lélek alászállásai, akik **nem a természet rendje**,
+hanem egy természetfeletti erő (mágia, az Árnyékvilág rendjét megtörő szabálytalanság,
+olykor maga a lélek akarata) folytán kerülnek ide. **Nem élők**, hanem mágikus kreatúrák,
+akik jobban megőrzik lelki, mint testi tulajdonságaikat. Ha a „bilincs" feloldódik vagy
+lefoszlik, a szellem **40 nap múlva** térhet vissza az Égbolton Túli Világba — addig
+köteles itt maradni.
+
+## Megjelenési formák
+
+Minden szellemlény jelen van valamiképp az anyagi világban, de egyszerű, **egyetlen
+őselemben** megnyilvánuló formában — ezt **szellemalaknak** nevezik: a kőben „szunnyad", a
+folyóban „szemlélődik", a szélben „utazik", a tűzben „dühöng". Anyagát megsűrítve
+**elementál** formát is ölthet (varázslat is kényszerítheti erre). A legkevesebben teljes
+értékű fizikai **inkarnációt** öltenek — ezek állnak hozzánk a legközelebb, és talán a
+legveszedelmesebbek.
 
 ## Érzékelés és veszély
 
@@ -43,3 +60,5 @@ világban, míg a szellemlényt egy „bilincs" (érzelem, elv, mágia, isteni p
 
 ## Források
 - `full_codex.md#L1794-L1796` (a szellemlények osztályozása és érzékelése)
+- `grimoire.md#L23-L25`, `grimoire.md#L77-L79` (a harmadik csoport, a 40 napos szabály)
+- `grimoire.md#L107-L109` (szellemalak, elementál, inkarnáció)

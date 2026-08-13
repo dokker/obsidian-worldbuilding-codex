@@ -4,9 +4,9 @@ aliases: [morâd, morâdok, angyal, angyalok]
 tags: [codex, bestiarium, szellem, isteni]
 status: vazlat
 kanon: biztos
-forras: ["full_codex.md#L1769-L1772", "full_codex.md#L1435"]
+forras: ["full_codex.md#L1769-L1772", "full_codex.md#L1435", "grimoire.md#L61-L71"]
 ocr_bizonytalan: false
-kapcsolodo: ["[[Hét Sík]]", "[[Bolygószellem]]", "[[Zora]]", "[[Shinwa harmónia]]", "[[Zorawa Miszticizmus]]"]
+kapcsolodo: ["[[Hét Sík]]", "[[Teremtő]]", "[[Szellemtan]]", "[[Bolygószellem]]", "[[Zora]]", "[[Shinwa harmónia]]", "[[Zorawa Miszticizmus]]"]
 elohely: "a Mindenség (közvetlenül nem az Árnyékvilág)"
 veszelyesseg: "isteni léptékű"
 ---
@@ -28,6 +28,24 @@ alakjában tiszteli az istent). Lényegük legpontosabban úgy ragadható meg, m
 **azonos vallásúak közös, egyesült hite** — ahogy az állatok a fajuk közös szellemében,
 úgy egyesülnek a hívők egy-egy morâdban.
 
+## Istenségek és arkangyalok
+
+A [[Szellemtan]] szerint a szellem-hierarchia csúcsán az **istenségek (arkangyalok)**
+állnak: hatalmuk a **teljes Mindenségre** kiterjed (a [[Shinwa harmónia|shinwa]] „egyetemes
+tökéletességnek", a dún vallás „arkangyaloknak" nevezi őket). Mibenlétük megragadhatatlan —
+a [[Teremtő]] egy-egy megnyilvánulása, őserő, vezérlőelv, olykor „a Teremtő titkos nevei".
+**Soha nem öltenek testet** az anyagban (egy test kevés a befogadásukhoz); ehelyett egy
+nagy tervben, célban, **vallási rendben, egyházban** honolnak — „testük a hívek közössége".
+A morâd e ranglétrán **kevesebb egy istennél, de több egy alászállt bolygószellemnél**: az
+istenség szerepét a halandók felé rendszerint egy morâd tölti be.
+
+## A megtestesült morâd
+
+A megtestesült (alászállt) morâd az [[Árnyékvilág]]ban **legyőzhető és elpusztítható** —
+bár ehhez mérhetetlen hatalom és szerencse kell —, mert evilági lénnyé lett; evilági halála
+azonban semmit sem jelent, valós lénye sértetlen marad. (Az alászállás mechanikájáról lásd
+[[Szellemtan]].)
+
 ## Rokon fogalmak
 
 - **Védőszent / őristen**: a [[Hét Sík|Istenek Síkján]] a lényünkben lakó szentséget a
@@ -44,3 +62,4 @@ alakjában tiszteli az istent). Lényegük legpontosabban úgy ragadható meg, m
 ## Források
 - `full_codex.md#L1769-L1772` (a morâd/angyal természete)
 - `full_codex.md#L1435` (a shinwa morâd-fogalma)
+- `grimoire.md#L61-L71` (istenségek/arkangyalok, morâdok/angyalok, a megtestesülés)

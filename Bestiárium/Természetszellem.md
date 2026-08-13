@@ -4,7 +4,7 @@ aliases: [természetszellem, természetszellemek, közös szellem, mori, nillit,
 tags: [codex, bestiarium, szellem]
 status: vazlat
 kanon: biztos
-forras: ["hegyikiralysag.md#L149-L189", "hegyikiralysag.md#L153-L177", "hegyikiralysag.md#L179-L189"]
+forras: ["hegyikiralysag.md#L149-L189", "hegyikiralysag.md#L153-L177", "hegyikiralysag.md#L179-L189", "grimoire.md#L17-L21", "grimoire.md#L75"]
 ocr_bizonytalan: false
 kapcsolodo: ["[[Nadîr, az Ős-Szellem]]", "[[nador sámánizmus]]", "[[Szellemlény]]", "[[Bolygószellem]]", "[[Árnyékvilág]]"]
 elohely: "az Anyagi Sík (a nador világkép szerint mindenütt, ahol Nadîr jelen van)"
@@ -33,6 +33,12 @@ létüknek. Ha semmi nem háborgatja őket, nem ismerik a haragot.
 A **„közös szellemek"** (fajszellemek) létformája Nadîréhoz hasonló: egy-egy állat- vagy
 növényfaj minden egyedében feloldódva léteznek. Az embertestben lakozó szellem neve
 **shonin** (lásd [[Naoenao]] őrzője, „Néma Halál" Iniin, aki maga is shonin).
+
+A [[Szellemtan]] a **Szellemerők** csoportjába sorolja őket: [[Nadîr, az Ős-Szellem|Nadîr]]
+önálló akaratú részei, akik természeti képződményekben vagy jelenségekben laknak.
+**Fizikailag inkarnálódni nem tudnak vagy nem szeretnek**; aki erre kényszeríti őket,
+kegyetlenül megleckézteti — ezt még nador sámán kérésére sem teszik meg. Csak **Nadîr**
+parancsának engedelmeskednek, így nagyjából **fél évezredenként egyszer** születik shonin.
 
 ## Hatalmi rangsor
 

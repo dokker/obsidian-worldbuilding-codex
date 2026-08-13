@@ -195,6 +195,22 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Shizaai | település | a „Élő Város" a Hulló Fény vízesése mögött (gleccserszellem lakja) — kidolgozandó |
 | Naikal Inaan / Ioena | település | Shîror-völgyi városok (a Nap Útja hágó őrvárosa; a kenuverseny rajtja) — kidolgozandó |
 | kharag–nador ellentét | fogalom | ősi gyűlölség (területi viták + a kharagok démoni vallása) |
+| Szellemtan (Arkánuma) | magia | a természetfeletti erők tudománya; al-Arkánumok: Evokáció, Theurgia/Goécia, Nekromancia, Liturgia, Szellemnyelv |
+| Égbolton Túli Szellemek | fogalom/lény | a törvények feletti szellemek: Teremtő→istenségek→morâdok→Halhatatlan Lelkek |
+| Szellemerők | lény | a természeti törvények maguk; bolygószellemek, természetszellemek, Védelem Fala |
+| alászállás | fogalom | ahogy egy felsőbb szellem az Árnyékvilágra hat (3 mód: bolygószellem/mágia/leszületés) |
+| Trigani Körök | fogalom | a mágia három beavatási köre (Első/Második/Harmadik) |
+| Ventor | lény | „állatszellem"; egy fajszellem emberi leszületése, alakváltó, olykor embervadász |
+| Órző (Őrző) | lény | gondolkodó Mana; „jó démon" (Teremtés Misztériuma); a Harmadik Kör titka |
+| Védelem Fala | fogalom | Nadýsst óvó szellemerők (fehérmágusok/adeptusok) |
+| Világkirály | fogalom | a bolygószellem rejtett főpapja; legfelső beavatott (bizonytalan) |
+| Demonológia | magia | a démonok ismeretének (védekező) Arkánuma; Tisztánlátás, Démonűzés |
+| A Lét Törvényei | fogalom | Egység, Körforgás, Törekvés — amit a démonok megszegnek |
+| démon Szint (I–IV) | fogalom | megszállott / asztrál-mentál-szolgadémon / közdémon-démonúr / démonherceg |
+| démon Osztály | fogalom | a démon ereje = Aura 10-es része |
+| szolgadémon / démonszobrászat | lény/mágia | mágiával teremtett pusztító Mana; tiltott démonalkotás |
+| démonherceg | lény | démonúr, akinek lelke van (Halhatatlanok Síkja); az Óidők mágusai? |
+| Démonikus ereklye | tárgy | démonúr-erejű tárgy; démonherceg lelkének lenyomata (lélekkovácsolás) |
 
 > **Nadîr** = Nadýss bolygószelleme (a Szószedet kimondja) — lásd [[Bolygószellem]].
 
