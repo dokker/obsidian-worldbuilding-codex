@@ -6,7 +6,7 @@ status: vazlat
 kanon: biztos
 forras: ["full_codex.md#L1794-L1796"]
 ocr_bizonytalan: false
-kapcsolodo: ["[[Hét Sík]]", "[[Szellemnyelv]]", "[[Árnyékvilág]]", "[[Zorawa Miszticizmus]]"]
+kapcsolodo: ["[[Hét Sík]]", "[[Szellemnyelv]]", "[[Természetszellem]]", "[[Árnyékvilág]]", "[[Zorawa Miszticizmus]]"]
 elohely: "az Árnyékvilághoz kötve"
 veszelyesseg: "változó (némelyik testet ölthet)"
 ---
@@ -36,6 +36,10 @@ légies árnyként, főleg éjjel láthatók).
 A velük való érintkezés nyelve a **[[Szellemnyelv]]** (a Liturgia és a Nekromancia
 legalsóbb szintje). A zorawa misztikusok és kolostorok szellemlények útján üzennek (lásd
 [[Abrýssi szokások]]).
+
+Megkülönböztetendők tőlük a **[[Természetszellem|természetszellemek]]** (a nador
+világkép szerint): azok **kényszer nélkül**, természetes módon vannak jelen az anyagi
+világban, míg a szellemlényt egy „bilincs" (érzelem, elv, mágia, isteni parancs) köti ide.
 
 ## Források
 - `full_codex.md#L1794-L1796` (a szellemlények osztályozása és érzékelése)

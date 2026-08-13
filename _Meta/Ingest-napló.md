@@ -12,10 +12,15 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 
 ## Állapot-összegzés
 
-- Forrás: `source/full_codex.md` (~3057 sor, nagyon hosszú sorok)
+- Források:
+  - `source/full_codex.md` (~3057 sor, nagyon hosszú sorok) — a fő forráskönyv
+  - `source/grimoire.md` (~1120+ sor) — **Szellemtan Arkánuma**: szellemtan, demonológia,
+    mágikus tradíciók/iskolák, kolostorok, sötét rendek, ardún liturgia *(feldolgozás alatt)*
+  - `source/hegyikiralysag.md` (~600 sor) — **A Hegyi Királyság**: a Nadîr Királyság
+    részletes fejezete (nadorok, sámánizmus, földrajz, Naoenao) *(gerinc feldolgozva)*
 - Fókusz: **világ-lore** (a tiszta mechanika kimarad; a képzettség-/fegyver-/harciskola-/
   példakarakter-leírásokat lore-utalásokért átnézzük)
-- Feldolgozva eddig: minta-szintű indítás (lásd lent)
+- A hivatkozásokban a forrásfájl neve is szerepel (`hegyikiralysag.md#Lx-Ly`, `grimoire.md#Lx-Ly`).
 
 ## Feldolgozási napló
 
@@ -52,6 +57,23 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 > **Mérföldkő:** a Birodalom mind a **tizenkét országa** jegyzetet kapott, és a
 > **teljes datált történelem** (i.e. ~8000 – I. 250) idővonalba rendeződött.
 
+### `hegyikiralysag.md` — A Hegyi Királyság
+
+| Dátum | Forrás sortartomány | Szakasz | Létrehozott/frissített jegyzetek | Megjegyzés |
+|---|---|---|---|---|
+| 2026-08-13 | hegyikiralysag.md#L153-L189 | Természetszellemek taxonómiája | [[Természetszellem]] (új) | mori/nillit/naooni/shinaan/yaooni + alapelvek; shonin, közös szellem |
+| 2026-08-13 | hegyikiralysag.md#L191-L241, L85-L147 | Sámánvarázslatok + invokációk | [[nador sámánizmus]] (új), [[Nadîr, az Ős-Szellem]] (bővítve), [[Szellemnyelv]] (bővítve) | Szellemerő, rítus; 14 invokáció lore-szinten |
+| 2026-08-13 | hegyikiralysag.md#L65-L69, L21 | Nador törvények | [[Nador Erkölcskódex]] (új) | yiirsh fogalom; [[nador]] frissítve |
+| 2026-08-13 | hegyikiralysag.md#L245-L275, L305-L307 | Földrajz | [[Ég Ormai]] (új), [[Shîror]] (új) | Ezüsterőd, Hegymély Kapuja/Jégcsillag-tó, a Forrás, Északvég, Messzivég |
+| 2026-08-13 | hegyikiralysag.md#L359-L515 | Naoenao zászlósváros | [[Naoenao]] (új) | Sziklavár/Sólyomfészek/Medvebarlang/Farkaslak; őrszellemek; katonai alakulatok |
+| 2026-08-13 | hegyikiralysag.md#L377-L389 | Alapítás | [[Öregfok Szövetség]] (új), [[Mennydörgés Noor]] (új) | a 18 nagynemzetség egyesülése, Hanyatlás Kora |
+| 2026-08-13 | hegyikiralysag.md#L449-L475 | Vezetés + jelenlegi király | [[Norao]] (új), [[Nadîr Királyság]] (nagy bővítés) | Nagy Öreg, 11 tanácsnok, Sámántanács, Hadúr; 18 nemzetség listája |
+| 2026-08-13 | hegyikiralysag.md#L21-L69 | A nadorok jelleme | [[nador]] (bővítve) | kunyhólakó vs városlakó; Bölcsőszikla; Erkölcskódex |
+
+> **A Hegyi Királyság gerince kész.** Feltáratlan még: a völgy egyes települései
+> (Shizaai, Naikal Inaan, Ioena önálló jegyzete) és a mellékszereplők (Sólyom-vezérek,
+> harcifőnökök, Hadúr Shensaai).
+
 ## Következő feldolgozandó szakaszok (javaslat)
 
 - [x] ~~L1813–L1873 — Nadîr, az Ős-Szellem~~ ✓
@@ -76,3 +98,19 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 - [ ] „Világ Könyve" pending nevei (Glosszárium): Yorsenar, Meldoa, Terra ni Mare, Úti Királyság…
 - [ ] Harciskolák (könyv vége) — lore-utalásokért is átnézni
 - [ ] Példa karakterek (könyv vége) — lore-utalásokért is átnézni
+
+### `hegyikiralysag.md` — hátralévő
+- [x] ~~Természetszellem-taxonómia, sámánizmus, Erkölcskódex, földrajz, Naoenao, alapítás~~ ✓
+- [ ] [[Shizaai]] („Élő Város"), [[Naikal Inaan]], [[Ioena]] önálló település-jegyzete
+- [ ] Mellékszereplők: Hadúr „Fehér Karom" Shensaai; Sólyom-vezérek (Riaaro, Elk, Kiriaai)
+- [ ] Kilenc Tó Völgye, Nap Útja Hágó, Napmező, Jégmadarak Öble mint helyszínek
+- [ ] A közlekedési útvonalak (Romlás Útja, Lelkek Ösvénye) + a sýtisi karaván-Házak
+
+### `grimoire.md` — Szellemtan Arkánuma (még nem kezdve)
+- [ ] Szellemek csoportosítása (Égbolton Túli / szellemerők / szellemlények), Trigani Körök
+- [ ] Ventorok, morâdok/angyalok, istenségek és arkangyalok; evokáció, theurgia/goécia
+- [ ] Demonológia: a Lét Törvényei, démonok szintjei/osztályai (megszállott→démonherceg)
+- [ ] Mágikus tradíciók és a történelmi visszatekintés (Agartha, korszakok) — egyeztetni a meglévő korszakokkal
+- [ ] Belső/Külső Erők, varázslóiskolák (Északi, Északnyugati, Délnyugati, Délkeleti), Császári Nagyiskola
+- [ ] Mîthis kolostorváros (bővítés), a Shin Császári Rendje, Sötét Rendek (Fekete Tűz, Gorothas-szekta)
+- [ ] Ardún Liturgia (Conflatura, Praesidium, Koldusok/Confessiánusok Rendje)

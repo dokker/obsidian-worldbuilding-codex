@@ -4,9 +4,9 @@ aliases: [Szellemnyelv]
 tags: [codex, fogalom, magia]
 status: csonk
 kanon: biztos
-forras: ["full_codex.md#L1798-L1800"]
+forras: ["full_codex.md#L1798-L1800", "hegyikiralysag.md#L199-L201"]
 ocr_bizonytalan: false
-kapcsolodo: ["[[Szellemlény]]", "[[Hét Sík]]", "[[Bolygószellem]]"]
+kapcsolodo: ["[[Szellemlény]]", "[[Természetszellem]]", "[[nador sámánizmus]]", "[[Hét Sík]]", "[[Bolygószellem]]"]
 kategoria: nyelv / misztikus kommunikáció
 ---
 
@@ -28,5 +28,10 @@ Mivel elvben a Világegyetem minden jelenségére van kifejezése, végtelenül 
 ért a hozzá hasonló [[Szellemlény|szellemlényekkel]], mint az állatok vagy növények
 szellemeivel, nem is beszélve a [[Bolygószellem]]ről.
 
+A **[[nador sámánizmus|nador sámánok]]** szinte kizárólag a
+[[Természetszellem|természetszellemekkel]] való érintkezésre használják, így tudásukat is
+ebbe az irányba fejlesztik (specializáció).
+
 ## Források
 - `full_codex.md#L1798-L1800` (a szellemnyelv természete)
+- `hegyikiralysag.md#L199-L201` (a sámánok szellemnyelv-használata, specializáció)

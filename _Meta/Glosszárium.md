@@ -167,6 +167,34 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Bandola | leny | mágikus betegségszellem, az éteri sík lakója |
 | Belső Erő | magia | tudatos mágikus akarat (a mágiahasználat egyik útja) |
 | Diszciplínák | magia | testen belüli kismágiák; az Aurát használják, csak az alkalmazóra hatnak |
+| Naoenao | település | a Nadîr Királyság zászlósvárosa az Öregfok szirtjén (forrás: hegyikiralysag.md) |
+| Nagy Öreg | cím | a nador király címe; jelenlegi: „Hegyek Királya" Norao |
+| Norao (Noraor) | szereplő | a jelenlegi Nagy Öreg; OCR: Norao/Noraor |
+| Mennydörgés Noor | szereplő | az első nador király, az Öregfok Szövetség létrehozója |
+| Öregfok Szövetség | esemeny | a nador törzsek egyesülése; a Nadîr Királyság megszületése (Hanyatlás Kora) |
+| Öregfok | helyszin | a szirt, amelyre Naoenao épült; Noor cölöpvára állt itt |
+| Shîror | helyszin | a nadorok szent folyama/völgye („lelkeket vezérlő") |
+| Ég Ormai | helyszin | a nador szent magashegység (Örök Békesség Hona); Hegymély-birodalom |
+| Ezüsterőd | helyszin | lakatlan ősi város az Ég Ormaiban (~3000 alak) |
+| Hegymély Kapuja (Mar Menoor) | helyszin | sziklafal a Jégcsillag-tó fölött; a Hegymély-birodalom „bejárata" |
+| Jégcsillag-tó | helyszin | tó a Hegymély Kapuja tövében |
+| Természetszellem | leny | Nadîr megjelenési formái; rangok: mori/nillit/naooni/shinaan/yaooni |
+| közös szellem (fajszellem) | leny | egy állat-/növényfaj minden egyedében feloldódó szellem |
+| shonin | leny | embertestben lakozó (természet)szellem; pl. Naoenao őrzője, „Néma Halál" Iniin |
+| yaun | leny | a Hegymély-birodalom mesebeli, elemi alapú lényei (bizonytalan) |
+| nador sámánizmus | magia | a nador sámánok szellemmágiája (Szellemerő, rítus, Szellemnyelv) |
+| Szellemerő | magia | a sámáni szellemmágia energiája/képessége |
+| Nador Erkölcskódex | fogalom | a nadorok íratlan törvényei |
+| yiirsh (jírs) | fogalom | a Nadîrt megtagadó áruló nador; gyilkos sértés |
+| Bölcsőszikla | helyszin/szokás | a nador névadó-/sorspróba szikla a folyóparton; állatszellem-oltalom |
+| tizennyolc nagynemzetség | frakcio | a Nadîr Királyságot alkotó nemzetségek (Zarranaai Hina a legerősebb) |
+| Vörös Farkasok / Ezüstmedvék / Sólymok | frakcio | Naoenao három hivatásos katonai alakulata |
+| Tűz Vadászai | frakcio | a Nagy Öreg belső testőrsége (Naoenao); parancsnok: „Néma Halál" Iniin |
+| északvégi határvadászok | frakcio | a Nadîr Királyság északi határát őrző különleges egységek |
+| Északvég / Messzivég | régió | a Nadîr Királyság északi (vad) és déli (mediterrán) végvidéke |
+| Shizaai | település | a „Élő Város" a Hulló Fény vízesése mögött (gleccserszellem lakja) — kidolgozandó |
+| Naikal Inaan / Ioena | település | Shîror-völgyi városok (a Nap Útja hágó őrvárosa; a kenuverseny rajtja) — kidolgozandó |
+| kharag–nador ellentét | fogalom | ősi gyűlölség (területi viták + a kharagok démoni vallása) |
 
 > **Nadîr** = Nadýss bolygószelleme (a Szószedet kimondja) — lásd [[Bolygószellem]].
 
@@ -189,6 +217,9 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | `Îátszik`, `À`, `Á` sor elején | `látszik`, `A`, `A` | téves diakritika |
 | `碧`, `中`, `Td`, elszórt latin szemét | — | törlendő szemétkarakter |
 | kötőjeles sortörés a szó közepén (`elkép-\nzelhetetlen`) | egybeírás | tördeléshiba |
+| `Ós-Szellem`, `Ös-Szellem`, `Ószellem` | `Ős-Szellem` | ő→ó/ö (Nadîr címe) |
+| `Nadjss` | `Nadýss` | a világ neve |
+| `abrîn` / `abrýn` | (a köznyelv neve) | megtartandó, nem hiba |
 
 > [!note] Az ű/ő betűket az OCR rendszeresen ú/ó alakban adja vissza. Magyar helyesírás
 > szerint javítsd, de tulajdonnévnél óvatosan (a világ neveiben a `î`, `ý`, `â` szándékos).

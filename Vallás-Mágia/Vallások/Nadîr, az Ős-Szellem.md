@@ -4,9 +4,9 @@ aliases: [Nadîr, Ős-Szellem, Nadîr kultusz, Nadir]
 tags: [codex, vallas/nadir, kultusz]
 status: vazlat
 kanon: biztos
-forras: ["full_codex.md#L1813-L1817", "full_codex.md#L1819-L1825"]
+forras: ["full_codex.md#L1813-L1817", "full_codex.md#L1819-L1825", "hegyikiralysag.md#L71-L147"]
 ocr_bizonytalan: false
-kapcsolodo: ["[[nador]]", "[[Nadîr Királyság]]", "[[Zorawa Miszticizmus]]", "[[Shinwa harmónia]]"]
+kapcsolodo: ["[[nador]]", "[[Nadîr Királyság]]", "[[Nador Erkölcskódex]]", "[[nador sámánizmus]]", "[[Természetszellem]]", "[[Bolygószellem]]", "[[Zorawa Miszticizmus]]", "[[Shinwa harmónia]]"]
 pantheon: "Nadîr, az Ős-Szellem (bolygószellem)"
 szenthely: "Nadîr Királyság (Abrýss nyugati határhegysége)"
 rendek: []
@@ -45,13 +45,44 @@ filozófiai kérdésre nem ad és nem is keres választ; elfogadja a világot ol
 amilyen. A zorawa könnyen beillesztette rendszerébe: a szellemeket a halhatatlan
 lélekkel, Nadîrt a **bolygószellemmel** azonosította.
 
+## Vallásgyakorlat
+
+A nador vallásgyakorlat nem más, mint az Ős-Szellem **tanításának és törvényeinek
+betartása** (lásd [[Nador Erkölcskódex]]). Aki e törvények szerint él és rendszeresen
+gyakorolja az invokációkat, elmélyülhet a hitben; aki vét ellenük, azt Nadîr elzárja a
+képességeitől. A vallás **minden istent elfogad, de mindtől elfordul** — egyedül Nadîr
+tiszteletét tartja fontosnak; nem kutatja a világ keletkezését vagy az ember végső célját.
+A [[Zorawa Miszticizmus|zorawa]] könnyen beillesztette rendszerébe: a szellemeket a
+halhatatlan lélekkel, Nadîrt a **[[Bolygószellem|bolygószellemmel]]** azonosította.
+
 ## Misztikus képességek (invokációk)
 
-A nadorok képességei a Természettel való harmóniából fakadnak; **invokációval**
-(rövid meditáció) növények, állatok szellemeit vagy magát Nadîrt hívják. Példák:
-*Engesztelés*, *Búcsúzás*, *Gyógyítás*, *Menedék*, *Keresés*, *Befolyás* (állatok
-fölött), *Halál* (a „halál a szélben" megérzése), *Tisztaság* (utazás a „Csend
-Világába"). *(A pontos mechanika kimarad; lásd forrás.)*
+A nadorok képességei a Természettel való harmóniából fakadnak; **invokációval** (rövid
+meditáció, jegyek felírása) növények, állatok [[Természetszellem|szellemeit]] vagy magát
+Nadîrt hívják segítségül. Egyszerre csak **egy** szellemmel tartható fenn a kapcsolat. Az
+invokációt csak azok tudják, akik valóban Nadîr tanításai szerint élnek; a hibás kísérlet
+megsértheti a szellemeket. Fő invokációk (a pontos mechanika kimarad):
+
+- **Fohász** — a szellem engedélyét kéri, mielőtt életet vesz (vadászat, ölés).
+- **Engesztelés** — köszönet/kiengesztelés az elvett életért; a lény jegyét vérrel rója a
+  tenyerébe.
+- **Nyom** — vadcsapa (vagy ember) követése („a föld emlékezik a lábra").
+- **Időjárás** — a következő három nap időjárásának megismerése.
+- **Jóindulat** — a szellemek előjelének (kedvező/kedvezőtlen) kifürkészése egy vállalkozás
+  előtt.
+- **Tisztaság** — utazás a „Csend Világába" (a néma magashegyek, az [[Ég Ormai]]);
+  pihenés, gyógyulás, vagy a végső eltávozás az Árnyékvilágból.
+- **Keresés** — vad (vagy Nadîr-hitű ember) tartózkodási irányának meglelése.
+- **Gyógyítás** — a nador saját életerejéből ad Ép-t; állatnál könnyebb, embernél nehezebb.
+- **Búcsúzás** — a halottak lelkéért; a tévútra tért lélek visszasegítése.
+- **Jelenlét** — ártó/idegen szellem (démon) érzékelése egy helyen.
+- **Menedék** — az Ős-Szellem oltalma egy rögtönzött hajlék fölött.
+- **Halál** — a „halál a szélben" megérzése (történt-e a helyen elmúlás).
+- **Befolyás** / **Állat** — mágikus akarattal hat állatokra, illetve magára ölti egy állat
+  markáns jellemvonását (a nadort szimbolizáló „kiemelt faj"). Rokon az [[Aura]]-
+  diszciplínákkal.
+
+A sámánok mélyebb, rítusos szellemmágiája: lásd **[[nador sámánizmus]]**.
 
 ## Nyitott kérdések / OCR-bizonytalanságok
 
@@ -61,3 +92,5 @@ Világába"). *(A pontos mechanika kimarad; lásd forrás.)*
 ## Források
 - `full_codex.md#L1813-L1817` (tanítás, vallástörténet)
 - `full_codex.md#L1819-L1825` (vallásgyakorlat, misztikus képességek)
+- `hegyikiralysag.md#L71-L83` (teológia, vallástörténet, vallásgyakorlat)
+- `hegyikiralysag.md#L85-L147` (az invokációk részletei)
