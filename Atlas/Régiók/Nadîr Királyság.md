@@ -97,9 +97,9 @@ viták és a kharagok démoni vallása miatt).
 
 ## Nyitott kérdések / OCR-bizonytalanságok
 
-- Kész: [[Shizaai]], [[Naikal Inaan]], [[Ioena]]. Kidolgozandó még: **Topakaan** (a Lelkek
-  Ösvénye kezdete), **a Forrás** (Na Lai Laoon, Folyószellem Népe — most a [[Shîror]]-ban),
-  a Kilenc Tó Völgye és a Napmező.
+- A völgy helyszínei megvannak: [[Shizaai]], [[Naikal Inaan]], [[Ioena]], [[A Forrás]],
+  [[Kilenc Tó Völgye]], [[Napmező]], [[Jégmadarak Öble]] (Topakaan a [[Shîror]]-ban).
+- Feltáratlan még: a Sólyom-vezérek (Riaaro, Elk, Kiriaai) mint mellékszereplők.
 - A VI. Napcsászár korabeli „lángba borulás" pontos viszonya az [[Öregfok Szövetség]]hez.
 
 ## Források

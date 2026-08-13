@@ -199,6 +199,14 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Nagy Tajtéklovaglás | fogalom | a Shîror-völgyi kenuverseny (Ioena → Naoenao) |
 | Cornin Corsis („Végtelenbe Sétáló") | szereplő | abýrnossi magiszter, egy Óidők-kori kolostor romjait keresi Naikal Inaannál |
 | Saltinacca Ház | frakcio | sýtisi ház; a Nap Útja Hágó csillámköveinek kizárólagos kereskedője |
+| A Forrás | helyszin | a Shîror szent eredete; a Folyószellem Népe (Na Lai Laoon) őrzi |
+| Folyószellem Népe (Forrás Őrei) | frakcio | a Na Lai Laoon nnz. törzse, a Shîror-forrás őrzői |
+| Kilenc Tó Völgye | helyszin | magashegyi tóvidék az Ég Ormai déli tövében (Felhőtükör-, Szivárvány-tó) |
+| Napmező | helyszin | a Királyság egyetlen jelentős gabonatermő síksága (tengerpart) |
+| Jégmadarak Öble | helyszin | tengeri öböl a Shîror alsó folyásánál, Naoenao alatt |
+| Lelkek Ösvénye | fogalom | a Shîrort végigkísérő gyalogút; Topakaantól indul |
+| Topakaan | település | kis falu Naikal Inaan felett; a Lelkek Ösvénye kezdete |
+| Romlás Útja | fogalom | a Sárkánygerincen átvezető keleti átkelő (Abýrnoss/Sýtis felől) |
 | kharag–nador ellentét | fogalom | ősi gyűlölség (területi viták + a kharagok démoni vallása) |
 | Szellemtan (Arkánuma) | magia | a természetfeletti erők tudománya; al-Arkánumok: Evokáció, Theurgia/Goécia, Nekromancia, Liturgia, Szellemnyelv |
 | Égbolton Túli Szellemek | fogalom/lény | a törvények feletti szellemek: Teremtő→istenségek→morâdok→Halhatatlan Lelkek |

@@ -18,7 +18,7 @@ nepek: []
 
 ## Áttekintés
 
-A **Kilenc Tó Völgyének** déli végétől a **Hegymély Kapujáig** húzódó roppant hegység;
+A **[[Kilenc Tó Völgye|Kilenc Tó Völgyének]]** déli végétől a **Hegymély Kapujáig** húzódó roppant hegység;
 négyezer alak (méter nagyságrend) fölé törő bércek, örök hó és jég, néma csend. **Nem jó
 és nem gonosz: makulátlan és kíméletlen.** A nadorok számára szent hely, a lelkek végső
 nyughelye — a *[[Nadîr, az Ős-Szellem|Tisztaság]]*-invokáció „Csend Világa" ide vezeti a

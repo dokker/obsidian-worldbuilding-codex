@@ -26,21 +26,19 @@ kellemes — ezért itt sűrűsödnek a nador falvak és városok. A völgy az o
 ## Földrajz és jellemzők
 
 ### A Forrás
-A Shîror eredete **szent hely**: az egyik legerősebb szellemmágikus pont [[Abrýss]]on,
-Nadîr jelenléte itt roppant erős. Törpefenyőkkel szegett tisztáson bukkan elő a sziklák
-alól; fölé emelt kőbe Nadîr szellemjegyét vésték még a **Nagy Vándorlás** idején. A
-szomszédos faluban él a **Na Lai Laoon** nagynemzetség legerősebb törzse, a **Folyószellem
-Népe** (a Forrás Őrei); egyik sámánjuk mindig a forrásnál ül, révületben egyesülve a
-folyószellemmel, hogy meghallja a folyó teljes hosszának üzeneteit.
+A Shîror eredete **szent hely**: [[Abrýss]] egyik legerősebb szellemmágikus pontja,
+őrzői a **Folyószellem Népe** (a Na Lai Laoon nagynemzetség törzse) — részletesen lásd
+**[[A Forrás]]**.
 
 ### Folyása
 Forrásvidékétől a torkolatig gyalogút, a **Lelkek Ösvénye** kíséri (sziklába vájt,
-függő- és sziklahidas gyalogút). A völgy jelentős településeit fentről lefelé haladva
-érintjük: [[Naikal Inaan]] (a Nap Útja hágó alatt), [[Shizaai]] (a Hulló Fény vízesése
-mögötti „Élő Város"), [[Ioena]] (a Nagy Tajtéklovaglás kenuverseny rajtja), végül a
-zászlósváros, **[[Naoenao]]**, ahol a folyó megkerüli az Öregfokot. Onnan a Jégmadarak
-Öble felé folytatja útját. A **Nagy Tajtéklovaglás** kenuverseny a nadorok kedvelt
-próbatétele a vad zúgókon.
+függő- és sziklahidas gyalogút), amely **Topakaan** kis településétől (a [[Naikal Inaan]]
+feletti szakaszon) indul. A völgy jelentős településeit fentről lefelé haladva érintjük:
+[[Naikal Inaan]] (a Nap Útja hágó alatt), [[Shizaai]] (a Hulló Fény vízesése mögötti „Élő
+Város"), [[Ioena]] (a Nagy Tajtéklovaglás kenuverseny rajtja), végül a zászlósváros,
+**[[Naoenao]]**, ahol a folyó megkerüli az Öregfokot. Onnan a **[[Jégmadarak Öble]]** felé
+folytatja útját. A **Nagy Tajtéklovaglás** kenuverseny a nadorok kedvelt próbatétele a vad
+zúgókon.
 
 ## Lakók és kultúra
 
