@@ -46,14 +46,14 @@ vészterhes idők közeledtét sejteti.
 ## Kapcsolatok
 
 - [[Nadîr Királyság]] — az ország, amelyet vezet; a vezetés élén áll (Nagy Öreg).
-- **Hadura** „Fehér Karom" **Shensaai** (a Shiir Shaan Shaor nagynemzetségből, a Vörös
-  Farkasok közül emelkedett), aki az ország katonai vezetője.
+- **Hadura** [[Shensaai|„Fehér Karom" Shensaai]] (a Shiir Shaan Shaor nagynemzetségből, a
+  Vörös Farkasok közül emelkedett), aki az ország katonai vezetője.
 - [[Naoenao]] — székvárosa; a Sziklavár Szentélye és Nadîr Kertje az ő legbensőbb területe.
 
 ## Nyitott kérdések / OCR-bizonytalanságok
 
 - Nevének írásmódja: a forrás **Norao** és **Noraor** alakban is hozza (OCR-bizonytalan).
-- Hadura, „Fehér Karom" Shensaai önálló szereplő-jegyzetet érdemelhet.
+- Hadura, [[Shensaai|„Fehér Karom" Shensaai]] — önálló jegyzete elkészült.
 
 ## Források
 - `hegyikiralysag.md#L459-L475` (Norao élete, a szellemút, uralkodása, Hadúr Shensaai)

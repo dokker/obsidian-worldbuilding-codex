@@ -86,7 +86,7 @@ viták és a kharagok démoni vallása miatt).
 - **Nagy Öreg** (a jelenlegi: „Hegyek Királya" [[Norao]]) — a király, [[Naoenao]]ból
   uralkodik; harcosai előtt saját Hadura is előbbrevaló egy idegen királynál.
 - **Tizenegy tanácsnok** (öt saját, hat más nemzetségből).
-- **Sámántanács** · **Hadúr** (jelenleg „Fehér Karom" Shensaai) · **Nemzetségfők** (nagy
+- **Sámántanács** · **Hadúr** (jelenleg [[Shensaai|„Fehér Karom" Shensaai]]) · **Nemzetségfők** (nagy
   önállósággal) · **Törzsfők** (a törzs védszellem-jogart hordozó vezetői).
 
 ## Kapcsolatok
@@ -97,8 +97,9 @@ viták és a kharagok démoni vallása miatt).
 
 ## Nyitott kérdések / OCR-bizonytalanságok
 
-- A völgy településeinek önálló jegyzetei kidolgozandók: [[Shizaai]] („Élő Város"),
-  [[Naikal Inaan]], [[Ioena]], Naikaal Inaan, Topakaan, a Forrás.
+- Kész: [[Shizaai]], [[Naikal Inaan]], [[Ioena]]. Kidolgozandó még: **Topakaan** (a Lelkek
+  Ösvénye kezdete), **a Forrás** (Na Lai Laoon, Folyószellem Népe — most a [[Shîror]]-ban),
+  a Kilenc Tó Völgye és a Napmező.
 - A VI. Napcsászár korabeli „lángba borulás" pontos viszonya az [[Öregfok Szövetség]]hez.
 
 ## Források

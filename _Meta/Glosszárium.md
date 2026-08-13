@@ -192,8 +192,13 @@ Ingestion közben ezt a listát bővítsd minden új tulajdonnévvel és felisme
 | Tűz Vadászai | frakcio | a Nagy Öreg belső testőrsége (Naoenao); parancsnok: „Néma Halál" Iniin |
 | északvégi határvadászok | frakcio | a Nadîr Királyság északi határát őrző különleges egységek |
 | Északvég / Messzivég | régió | a Nadîr Királyság északi (vad) és déli (mediterrán) végvidéke |
-| Shizaai | település | a „Élő Város" a Hulló Fény vízesése mögött (gleccserszellem lakja) — kidolgozandó |
-| Naikal Inaan / Ioena | település | Shîror-völgyi városok (a Nap Útja hágó őrvárosa; a kenuverseny rajtja) — kidolgozandó |
+| Shizaai | település | az „Élő Város" a Hulló Fény (Maioine Mainoo) vízesése mögött; gleccserszellem lakja (Markenao nnz.) |
+| Naikal Inaan | település | a „Völgyet Őriző", a Shîror-völgy első városa a Nap Útja hágó alatt (Żarr nnz.) |
+| Ioena | település | a mirtin törzs faluja; a Nagy Tajtéklovaglás kenuverseny rajtja |
+| Shensaai („Fehér Karom") | szereplő | a Nadîr Királyság Hadura (Norao alatt); a Vörös Farkasokból emelkedett |
+| Nagy Tajtéklovaglás | fogalom | a Shîror-völgyi kenuverseny (Ioena → Naoenao) |
+| Cornin Corsis („Végtelenbe Sétáló") | szereplő | abýrnossi magiszter, egy Óidők-kori kolostor romjait keresi Naikal Inaannál |
+| Saltinacca Ház | frakcio | sýtisi ház; a Nap Útja Hágó csillámköveinek kizárólagos kereskedője |
 | kharag–nador ellentét | fogalom | ősi gyűlölség (területi viták + a kharagok démoni vallása) |
 | Szellemtan (Arkánuma) | magia | a természetfeletti erők tudománya; al-Arkánumok: Evokáció, Theurgia/Goécia, Nekromancia, Liturgia, Szellemnyelv |
 | Égbolton Túli Szellemek | fogalom/lény | a törvények feletti szellemek: Teremtő→istenségek→morâdok→Halhatatlan Lelkek |

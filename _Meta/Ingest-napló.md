@@ -70,9 +70,17 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 | 2026-08-13 | hegyikiralysag.md#L449-L475 | Vezetés + jelenlegi király | [[Norao]] (új), [[Nadîr Királyság]] (nagy bővítés) | Nagy Öreg, 11 tanácsnok, Sámántanács, Hadúr; 18 nemzetség listája |
 | 2026-08-13 | hegyikiralysag.md#L21-L69 | A nadorok jelleme | [[nador]] (bővítve) | kunyhólakó vs városlakó; Bölcsőszikla; Erkölcskódex |
 
-> **A Hegyi Királyság gerince kész.** Feltáratlan még: a völgy egyes települései
-> (Shizaai, Naikal Inaan, Ioena önálló jegyzete) és a mellékszereplők (Sólyom-vezérek,
-> harcifőnökök, Hadúr Shensaai).
+> **A Hegyi Királyság gerince kész.**
+
+| Dátum | Forrás sortartomány | Szakasz | Létrehozott/frissített jegyzetek | Megjegyzés |
+|---|---|---|---|---|
+| 2026-08-13 | hegyikiralysag.md#L335-L345 | Az Élő Város | [[Shizaai]] (új) | Hulló Fény, gleccserszellem, Votahaan-legenda, honvágy |
+| 2026-08-13 | hegyikiralysag.md#L307-L333 | A Völgyet Őriző | [[Naikal Inaan]] (új) | Żarr nnz.; Khaai/Von/Oiniin; Cornin Corsis, Saltinacca Ház |
+| 2026-08-13 | hegyikiralysag.md#L347-L355 | A kenuverseny faluja | [[Ioena]] (új) | mirtin törzs, Nagy Tajtéklovaglás, „Nem Mindig" Kiaai |
+| 2026-08-13 | hegyikiralysag.md#L477-L491 | A Hadúr | [[Shensaai]] (új) | „Fehér Karom" Shensaai; [[Nadîr Királyság]] + [[Norao]] linkelve |
+
+> **A `hegyikiralysag.md` fő tartalma lefedve.** Feltáratlan morzsák: Topakaan, a Forrás
+> (Na Lai Laoon) önálló jegyzete; a Sólyom-vezérek (Riaaro, Elk, Kiriaai) mint mellékszereplők.
 
 ### `grimoire.md` — Szellemtan Arkánuma
 
@@ -152,10 +160,10 @@ tartalom szerint történik; a lenti sorszámok tájékozódási pontok.
 
 ### `hegyikiralysag.md` — hátralévő
 - [x] ~~Természetszellem-taxonómia, sámánizmus, Erkölcskódex, földrajz, Naoenao, alapítás~~ ✓
-- [ ] [[Shizaai]] („Élő Város"), [[Naikal Inaan]], [[Ioena]] önálló település-jegyzete
-- [ ] Mellékszereplők: Hadúr „Fehér Karom" Shensaai; Sólyom-vezérek (Riaaro, Elk, Kiriaai)
+- [x] ~~[[Shizaai]] („Élő Város"), [[Naikal Inaan]], [[Ioena]] önálló település-jegyzete~~ ✓
+- [x] ~~Hadúr „Fehér Karom" [[Shensaai]]~~ ✓; [ ] Sólyom-vezérek (Riaaro, Elk, Kiriaai) mellékszereplők
 - [ ] Kilenc Tó Völgye, Nap Útja Hágó, Napmező, Jégmadarak Öble mint helyszínek
-- [ ] A közlekedési útvonalak (Romlás Útja, Lelkek Ösvénye) + a sýtisi karaván-Házak
+- [ ] A közlekedési útvonalak (Romlás Útja, Lelkek Ösvénye) + a sýtisi karaván-Házak; Topakaan, a Forrás
 
 ### `grimoire.md` — Szellemtan Arkánuma
 - [x] ~~Szellemek csoportosítása (Égbolton Túli / szellemerők / szellemlények), Trigani Körök~~ ✓
