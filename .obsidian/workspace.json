@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Helyszínek/Gîl-Hadul kolostor.md",
+                "file": "Atlas/Régiók/Nadîr Királyság.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gîl-Hadul kolostor"
+              "title": "Nadîr Királyság"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "82f2eac28c56d3f3",
   "lastOpenFiles": [
+    "Atlas/Kontinensek/Abrýss.md",
+    "Atlas/Helyszínek/Gîl-Hadul kolostor.md",
     "Frakciók/Shin Császári Rendje.md",
     "Frakciók/Praesidium.md",
     "Frakciók/_Frakciók-MOC.md",
@@ -222,7 +224,6 @@
     "Frakciók/Conflatura.md.tmp.13127.f551dd386b1a",
     "Vallás-Mágia/Mágia/Ardún Liturgia.md",
     "Vallás-Mágia/Mágia/Ardún Liturgia.md.tmp.13127.96632f547805",
-    "Atlas/Helyszínek/Gîl-Hadul kolostor.md",
     "Atlas/Helyszínek/Gîl-Hadul kolostor.md.tmp.13127.a61f565a1678",
     "Frakciók/Császári Nagyiskola.md",
     "Fogalmak/Varázslóiskolák.md",
@@ -233,7 +234,6 @@
     "Vallás-Mágia/Istenek/Zora.md",
     "00-Home.md",
     "Vallás-Mágia/Mágia/Demonológia.md",
-    "Naisuri Kagan.md",
-    "Vallás-Mágia/_Vallás-Mágia-MOC.md"
+    "Naisuri Kagan.md"
   ]
 }
