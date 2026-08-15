@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Régiók/Nadîr Királyság.md",
+                "file": "Frakciók/Shagîri Harciskola.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nadîr Királyság"
+              "title": "Shagîri Harciskola"
             }
           }
         ]
@@ -199,6 +199,11 @@
   },
   "active": "82f2eac28c56d3f3",
   "lastOpenFiles": [
+    "00-Home.md",
+    "Népek-Kultúrák/_Népek-MOC.md",
+    "Vallás-Mágia/_Vallás-Mágia-MOC.md",
+    "Történelem/_Idővonal-MOC.md",
+    "Atlas/Régiók/Nadîr Királyság.md",
     "Atlas/Kontinensek/Abrýss.md",
     "Atlas/Helyszínek/Gîl-Hadul kolostor.md",
     "Frakciók/Shin Császári Rendje.md",
@@ -229,11 +234,6 @@
     "Fogalmak/Varázslóiskolák.md",
     "Fogalmak/Fehérmágus.md",
     "Vallás-Mágia/Mágia/Külső és Belső Erők.md",
-    "Fogalmak/Agartha.md",
-    "Vallás-Mágia/Vallások/Dún vallás.md",
-    "Vallás-Mágia/Istenek/Zora.md",
-    "00-Home.md",
-    "Vallás-Mágia/Mágia/Demonológia.md",
-    "Naisuri Kagan.md"
+    "Fogalmak/Agartha.md"
   ]
 }
