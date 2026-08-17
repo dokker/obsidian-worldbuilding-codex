@@ -3,7 +3,7 @@ type: moc
 tags: [codex, moc, fogalom]
 ---
 
-# 📖 Fogalmak
+#  Fogalmak
 
 Lore-terminusok és fogalmak. Kitöltendő az ingestion során.
 

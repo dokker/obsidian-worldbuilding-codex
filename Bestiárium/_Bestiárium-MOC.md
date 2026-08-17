@@ -3,7 +3,7 @@ type: moc
 tags: [codex, moc, bestiarium]
 ---
 
-# 🐉 Bestiárium
+#  Bestiárium
 
 Lények, szellemek és felsőbb létformák. A kozmológiai keret: [[Hét Sík]].
 

@@ -3,7 +3,7 @@ type: moc
 tags: [codex, moc, atlas]
 ---
 
-# 🗺️ Atlas — Földrajz
+#  Atlas — Földrajz
 
 A CODEX világ helyszínei. Fő világ: [[Nadýss]]. Fő szárazulat: [[Abrýss]].
 

@@ -3,7 +3,7 @@ type: moc
 tags: [codex, moc, szereplo]
 ---
 
-# 👤 Szereplők
+#  Szereplők
 
 Nevezetes NJK-k és személyek. Kitöltendő az ingestion során.
 

@@ -3,7 +3,7 @@ type: moc
 tags: [codex, moc, nep]
 ---
 
-# 🧬 Népek és Kultúrák
+#  Népek és Kultúrák
 
 ## Népek
 - [[ghodi]] — alacsony, éles eszű lovasnép ([[Naisur]])

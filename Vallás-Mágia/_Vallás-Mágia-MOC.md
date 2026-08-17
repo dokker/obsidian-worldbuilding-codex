@@ -3,7 +3,7 @@ type: moc
 tags: [codex, moc, vallas, magia]
 ---
 
-# ✨ Vallás és Mágia
+#  Vallás és Mágia
 
 ## Vallások
 - [[Zorawa Miszticizmus]] — a Birodalom államvallása, a titkos tudás útja

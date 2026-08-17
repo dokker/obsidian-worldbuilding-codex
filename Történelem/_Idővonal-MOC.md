@@ -3,7 +3,7 @@ type: moc
 tags: [codex, moc, tortenelem]
 ---
 
-# 📜 Történelem — Idővonal
+#  Történelem — Idővonal
 
 > [!info] Időszámítás
 > **I. e.** = a Napcsászárok kora *előtt*; **I. <év>** = a [[Napcsászárok kora]] adott éve

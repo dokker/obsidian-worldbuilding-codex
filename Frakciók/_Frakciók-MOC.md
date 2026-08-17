@@ -3,7 +3,7 @@ type: moc
 tags: [codex, moc, frakcio]
 ---
 
-# ⚔️ Frakciók
+#  Frakciók
 
 ## Uralkodó / birodalmi
 - [[Napcsászár]] — a Birodalom isteni ura
